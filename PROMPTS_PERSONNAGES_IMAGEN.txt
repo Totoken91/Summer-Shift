@@ -1,0 +1,63 @@
+================================================================================
+  SUMMER SHIFT – PROMPTS IMAGE IA (PERSONNAGES – BASE)
+  Format cible : portrait, upper body, cut at waist, white background
+  Style global : anime, visual novel character sprite
+================================================================================
+
+NOTE : Paramètres recommandés pour tous les prompts :
+  – Ratio : 1:2 ou 9:16 (portrait vertical)
+  – Négatif : full body, legs, background, scenery, text, watermark,
+    blurry, bad anatomy, extra limbs, deformed hands
+
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+LINA  –  lina happy (base)
+────────────────────────────────────────────────────────────────────────────────
+
+anime visual novel character sprite, upper body portrait cropped at the waist,
+white background, young woman, 21 years old, medium-length wavy auburn hair,
+warm hazel brown eyes, light tan skin, cheerful and slightly mischievous smile,
+wearing a red bikini top and denim cutoff shorts, casual summer outfit,
+confident and playful pose, clean anime lineart, flat cell shading,
+bright saturated colors, visual novel style illustration
+
+────────────────────────────────────────────────────────────────────────────────
+MINA  –  mina happy (base)
+────────────────────────────────────────────────────────────────────────────────
+
+anime visual novel character sprite, upper body portrait cropped at the waist,
+white background, young woman, 24 years old, short straight black hair in a
+bob cut, large dark brown eyes, fair skin, round glasses, warm genuine smile,
+wearing a pastel mint green dress with a clean white apron over it,
+hands clasped together in front, soft and approachable expression,
+clean anime lineart, flat cell shading, soft pastel colors,
+visual novel style illustration
+
+────────────────────────────────────────────────────────────────────────────────
+SOFIA  –  sofia confident (base)
+────────────────────────────────────────────────────────────────────────────────
+
+anime visual novel character sprite, upper body portrait cropped at the waist,
+white background, elegant woman, 29 years old, long straight chestnut brown
+hair flowing down, sharp green eyes, slim figure, light skin, composed and
+self-assured expression, subtle confident smile, wearing a light violet summer
+dress with thin straps, resort chic style, one hand on hip pose,
+clean anime lineart, flat cell shading, refined color palette,
+visual novel style illustration
+
+────────────────────────────────────────────────────────────────────────────────
+CLARA  –  clara tsundere (base)
+────────────────────────────────────────────────────────────────────────────────
+
+anime visual novel character sprite, upper body portrait cropped at the waist,
+white background, young girl, 18 years old, light sky blue hair worn in two
+twin tails, bright blue eyes, petite frame, fair skin, arms crossed, slight
+pout with a frown but secretly cute expression, tsundere personality,
+wearing a white crop top and light blue shorts, casual summer outfit,
+clean anime lineart, flat cell shading, cool blue color palette,
+visual novel style illustration
+
+================================================================================
+  FIN DES PROMPTS
+================================================================================

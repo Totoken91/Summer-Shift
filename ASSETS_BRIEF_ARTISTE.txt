@@ -1,0 +1,454 @@
+================================================================================
+  SUMMER SHIFT – BRIEF ARTISTE
+  Visual Novel Ren'Py 8.3.3 | Résolution : 1920×1080 px
+================================================================================
+
+CONTEXTE DU JEU
+───────────────
+Titre       : Summer Shift
+Genre       : Visual novel romance / comédie adulte légère
+Cadre       : Resort balnéaire méditerranéen, été
+Moteur      : Ren'Py 8.3.3 (PC/Windows principal)
+Résolution  : 1920×1080 px (16:9)
+
+Style artistique souhaité :
+  – Semi-réaliste / anime doux, trait propre, couleurs saturées mais pas criardes
+  – Inspirations : VN japonais modernes (Nekopara, Summer Pockets, Fureraba)
+  – Ambiance : soleil, chaleur, légèreté estivale, émotions expressives
+
+Palette couleurs UI (pour cohérence avec les sprites) :
+  Corail chaud   #F4845F   → accents, noms personnages
+  Bleu océan     #1C3F5E   → fonds de boîtes de dialogue
+  Ambre doré     #FFAB40   → hovers, boutons actifs
+  Crème sable    #FFF8F0   → texte principal
+  Blanc          #FFFFFF   → highlights
+
+================================================================================
+  SECTION 1 – SPRITES PERSONNAGES
+================================================================================
+
+FORMAT OBLIGATOIRE
+  – PNG 32-bit avec canal alpha (fond transparent)
+  – Dimensions : 300 × 580 px
+  – Le personnage doit occuper toute la hauteur (pieds visibles ou hors cadre bas)
+  – Fond : 100 % transparent
+  – Résolution : 72 dpi minimum (les fichiers seront affichés à l'écran uniquement)
+
+NOMMAGE DES FICHIERS
+  Tous les fichiers sprites vont dans : game/images/
+  Format du nom : [prénom] [expression].png  (espace, pas underscore)
+  Exemple : "lina happy.png", "mina blush.png"
+
+────────────────────────────────────────────────────────────────────────────────
+  LINA (5 sprites)
+────────────────────────────────────────────────────────────────────────────────
+Description physique de base :
+  Âge : 21 ans. Cheveux auburn ondulés, mi-longs (jusqu'aux épaules).
+  Yeux en amande, couleur noisette/brun chaleureux.
+  Silhouette athlétique mais naturelle, teint légèrement hâlé.
+  Tenue de base : bikini top rouge + short en jean déchiré + sandales.
+  Personnalité : espiègle, spontanée, grande bouche (rit souvent).
+
+  lina happy.png      – Sourire malicieux, yeux pétillants. Tenue de base.
+                        Pose décontractée, légèrement de côté.
+
+  lina blush.png      – Joues très roses, regard légèrement fuyant vers le bas.
+                        Tenue de base. Expression embarrassée mais mignonne.
+
+  lina laugh.png      – Rire franc : bouche ouverte, yeux plissés/fermés,
+                        une main sur la bouche ou le ventre. Tenue de base.
+
+  lina surprised.png  – Yeux grands ouverts, bouche en petit "O",
+                        sourcils levés. Tenue de base.
+
+  lina swimsuit.png   – Bikini deux pièces rouge complet (haut triangle + bas).
+                        Expression neutre/souriante, pose légèrement de face.
+
+────────────────────────────────────────────────────────────────────────────────
+  MINA (5 sprites)
+────────────────────────────────────────────────────────────────────────────────
+Description physique de base :
+  Âge : 24 ans. Cheveux noirs, coupe au carré (bob court), légèrement brillants.
+  Yeux marron foncé, grands et expressifs.
+  Silhouette douce et ronde (mignonne, pas sportive).
+  Teint clair, lunettes rondes optionnelles (présentes si possible).
+  Tenue de base : robe pastel (vert eau ou rose poudré) + tablier blanc.
+  Personnalité : douce, maternelle, un peu timide, cuisine souvent.
+
+  mina happy.png      – Grand sourire sincère, légèrement inclinée en avant.
+                        Tablier blanc sur robe. Les mains jointes devant elle.
+
+  mina blush.png      – Joues très roses, yeux légèrement plissés,
+                        petit sourire gêné. Tablier.
+
+  mina shy.png        – Regard vers le bas, mains jointes, épaules rentrées.
+                        Expression timide/embarrassée. Tablier.
+
+  mina surprised.png  – Yeux écarquillés, bouche légèrement ouverte,
+                        mains jointes devant la poitrine. Tablier.
+
+  mina apron.png      – Tablier blanc bien attaché, tenue nette "chef maison".
+                        Expression souriante et fière. Robe propre (pas de tablier sale).
+
+────────────────────────────────────────────────────────────────────────────────
+  SOFIA (5 sprites)
+────────────────────────────────────────────────────────────────────────────────
+Description physique de base :
+  Âge : 29 ans. Cheveux châtains lisses, longs (milieu du dos), parfois attachés.
+  Yeux verts, regard perçant, élégant.
+  Grande silhouette longiligne, port altier.
+  Tenue de base : robe légère violette ou bleu marine, style resort chic.
+  Personnalité : mystérieuse, sophistiquée, sourire rare mais dévastateur.
+
+  sofia confident.png  – Expression assurée, légère arrogance positive.
+                         Bras croisés ou main sur la hanche. Robe violette.
+
+  sofia soft.png       – Expression douce, regard tendre, légère émotion.
+                         Bras le long du corps ou main au menton. Robe.
+
+  sofia smirk.png      – Sourire en coin malicieux, un sourcil légèrement levé.
+                         Regarde légèrement de côté. Robe.
+
+  sofia surprised.png  – Un sourcil levé, bouche entrouverte.
+                         Surprise élégante (pas exagérée comme les autres). Robe.
+
+  sofia swimsuit.png   – Maillot une pièce sophistiqué (violet foncé, découpes élégantes).
+                         Pose assurée, légèrement de profil.
+
+────────────────────────────────────────────────────────────────────────────────
+  CLARA (4 sprites)
+────────────────────────────────────────────────────────────────────────────────
+Description physique de base :
+  Âge : 18 ans. Cheveux bleu ciel (teinte naturelle dans l'univers du jeu),
+  coiffure en deux nattes/twin tails.
+  Yeux bleus clairs, expression souvent renfrongnée ou boudant.
+  Silhouette petite et fine.
+  Tenue de base : crop top blanc + short bleu clair + baskets.
+  Personnalité : tsundere classique, fière, cache sa sensibilité.
+
+  clara tsundere.png  – Bras croisés, regard de côté, légère moue.
+                        Posture fermée mais expression involontairement mignonne.
+
+  clara blush.png     – Joues rouges, détourne le regard ostensiblement.
+                        "Ce n'est pas comme si je rougissais pour toi !"
+
+  clara shy.png       – Regard hésitant vers l'avant, épaules légèrement levées.
+                        Moins fermée que tsundere, expression vulnérable malgré elle.
+
+  clara angry.png     – Sourcils froncés, doigt pointé, légèrement penchée en avant.
+                        Bouche ouverte en train de gronder. Joues légèrement roses.
+
+================================================================================
+  SECTION 2 – BACKGROUNDS (DÉCORS)
+================================================================================
+
+FORMAT OBLIGATOIRE
+  – PNG 32-bit
+  – Dimensions : 960 × 640 px  ← IMPORTANT : pas 1920×1080
+    (Le moteur Ren'Py les zoome ×2 automatiquement → 1920×1080)
+  – Le rendu final étant 1920×1280 (rogné à 1920×1080), les bords haut/bas
+    peuvent avoir une légère marge de sécurité ou être moins détaillés.
+  – Résolution : 144 dpi recommandé (pour que le zoom ×2 reste net)
+
+NOMMAGE & EMPLACEMENT
+  Tous les fichiers vont dans : game/images/bg/
+  Les espaces dans les noms sont intentionnels et requis par le code.
+
+────────────────────────────────────────────────────────────────────────────────
+
+  plagejour.png
+  Usage : Scènes matinales et d'après-midi à la plage
+  Description :
+    Plage de sable blanc fin. Mer turquoise et transparente.
+    Quelques parasols colorés (rouge, jaune, bleu) plantés dans le sable.
+    Ciel bleu vif avec quelques nuages légers.
+    Lumière estivale douce et légèrement éblouissante.
+    Angle de vue légèrement en hauteur, comme depuis une terrasse basse
+    ou le bord de plage debout. Horizon visible au tiers supérieur.
+    Quelques rochers ou bateaux au loin pour la profondeur.
+
+  plage soir.png
+  Usage : Scènes romantiques et soirées à la plage
+  Description :
+    Même plage que plagejour.png, même angle de vue (cohérence visuelle).
+    Coucher de soleil : ciel dégradé orange → rose → violet profond.
+    Reflets dorés et roses sur l'eau.
+    Quelques étoiles naissantes visibles en haut du ciel.
+    Les parasols sont fermés/rangés. Ambiance apaisante et romantique.
+    Légère brume orangée à l'horizon.
+
+  bar cool.png
+  Usage : Scènes au bar du resort (soirées, conversations nocturnes)
+  Description :
+    Bar tropical extérieur, ouvert sur l'air du soir.
+    Long comptoir en bois sombre avec des tabourets hauts.
+    Bouteilles colorées et verres disposés derrière le bar.
+    Lumières guirlandes chaudes (ambre/jaune) suspendues au-dessus.
+    Plantes tropicales (palmiers nains, bougainvilliers) sur les côtés.
+    Ambiance tamisée de nuit, quelques bougies sur les tables visibles.
+    Vue partielle sur la mer ou la piscine en arrière-plan flou.
+
+  salle a manger.png
+  Usage : Petits-déjeuners, repas en commun
+  Description :
+    Grande salle à manger d'un resort de charme.
+    Tables rondes en bois clair avec nappes blanches et centres de table
+    (petits vases, fleurs tropicales simples).
+    Grandes fenêtres ou baies vitrées ouvertes sur la mer (lumière matinale).
+    Buffet visible sur un côté.
+    Lumière dorée du matin entrant par les fenêtres.
+    Quelques chaises vides suggèrent un lieu vivant mais calme.
+
+  patio.png
+  Usage : Terrasse du resort ET scènes piscine (même décor, double usage)
+  Description :
+    Grande terrasse extérieure dallée en pierre claire.
+    Piscine d'eau bleue et limpide visible (éclats de lumière sur l'eau).
+    Transats blancs avec serviettes colorées.
+    Pergola ou brise-soleil couvert de bougainvilliers fuchsia.
+    Vue dégagée sur la mer au fond (horizon bleu).
+    Quelques pots avec palmiers ou aloès. Ambiance ensoleillée de journée.
+
+  chambre 1.png
+  Usage : Chambre d'Alex (protagoniste)
+  Description :
+    Chambre d'hôtel/resort confortable, style méditerranéen.
+    Lit double avec tête de lit en bois, draps blancs ou beiges.
+    Décoration bord de mer discrète : ancre décorative, bleu/blanc.
+    Grande fenêtre ou porte-fenêtre donnant sur la plage ou le jardin.
+    Lumière du jour (matin ou après-midi). Quelques affaires personnelles
+    (sac de voyage, livre). Ambiance masculine mais accueillante.
+
+  chambre 2.png
+  Usage : Chambre secondaire / variante (réserve)
+  Description :
+    Variante de chambre d'hôtel, légèrement différente de chambre 1.
+    Même style méditerranéen mais touche légèrement plus féminine :
+    couverture colorée (rose ou terracotta), petits détails déco (fleurs).
+    Même luminosité générale. Peut partager des éléments avec chambre 1
+    mais doit être clairement différenciable.
+
+  chambre fille 1.png
+  Usage : Chambre d'une des filles (intimité, scènes de soirée)
+  Description :
+    Chambre féminine personnalisée, atmosphère douce et intime.
+    Photos ou polaroids accrochés au mur, quelques plantes vertes.
+    Lumière tamisée (lampe de chevet, bougie, heure du soir).
+    Lit avec coussins colorés. Vêtements ou affaires qui traînent (naturel).
+    Ambiance chaleureuse, légèrement romantique mais pas excessive.
+
+  parc.png
+  Usage : Jardin du resort / source thermale (double usage)
+  Description :
+    Jardin méditerranéen luxuriant et entretenu.
+    Allée en pierres beiges bordée d'oliviers et de lavande.
+    Fontaine en pierre au centre ou visible.
+    Bougainvilliers fuchsia sur des murs blancs.
+    Lumière de fin d'après-midi (dorée, légèrement rasante).
+    Quelques bancs en fer forgé. Atmosphère paisible et romantique.
+
+================================================================================
+  SECTION 3 – INTERFACE UTILISATEUR (UI)
+================================================================================
+
+FORMAT GÉNÉRAL
+  – PNG 32-bit avec canal alpha (transparence) SAUF mention contraire
+  – Aucune compression avec perte (pas de JPG)
+  – Les dimensions sont EXACTES et impératives (le moteur ne redimensionne pas)
+
+EMPLACEMENT : game/gui/
+
+────────────────────────────────────────────────────────────────────────────────
+
+  textbox.png                          1920 × 220 px
+  Usage : Bande de dialogue en bas d'écran (affichée en permanence pendant les dialogues)
+  Description :
+    Bande horizontale large, style "verre dépoli" (glassmorphism léger).
+    Fond bleu océan sombre (#1C3F5E) à environ 80% d'opacité.
+    Fine ligne lumineuse en haut de la bande (1-2 px, blanche ou corail #F4845F).
+    Bords gauche et droit : transparents (fondu progressif recommandé).
+    Pas de coins arrondis (la bande va de bord à bord).
+    Hauteur visible du texte : environ 160 px au centre (marges haut/bas de 30 px).
+    IMPORTANT : fichier 1920×220 px, même si le fond est semi-transparent.
+
+  namebox.png                          400 × 80 px
+  Usage : Bulle affichant le nom du personnage qui parle
+  Description :
+    Rectangle arrondi (coins arrondis, radius ~16 px).
+    Fond corail chaud (#F4845F) à 80% d'opacité.
+    Fine bordure légèrement plus sombre ou légère ombre portée.
+    Le centre doit être vide (le texte du nom sera superposé par le moteur).
+    Fond transparent autour de la forme.
+
+  button/choice_idle.png               1000 × 80 px
+  Usage : Bouton de choix de dialogue (état normal, non survolé)
+  Description :
+    Panneau rectangulaire avec coins arrondis (radius ~12 px).
+    Fond bleu nuit semi-transparent (#0A1F33 à 75% opacité).
+    Fine bordure bleu-gris clair (~#4A7A9B, 1-2 px).
+    Icône décorative optionnelle à gauche : coquillage simple ou vague minimaliste.
+    La zone centrale doit être vide (le texte sera ajouté par le moteur).
+    Fond transparent autour du bouton.
+
+  button/choice_hover.png              1000 × 80 px
+  Usage : Bouton de choix de dialogue (état survolé/sélectionné)
+  Description :
+    Même forme que choice_idle.png.
+    Fond corail (#F4845F) ou ambre (#FFAB40), opacité 90%.
+    Légère lueur/glow sur les bords (blanc ou jaune très doux).
+    Bordure légèrement plus lumineuse que l'état idle.
+    Fond transparent autour du bouton.
+
+  qm_bg.png                            132 × 32 px
+  Usage : Fond du quick menu (petite barre de boutons en bas à droite de l'écran)
+  Description :
+    Petite bande horizontale très discrète.
+    Style sable clair semi-transparent (#BCA585 à 40% opacité) ou bleu très sombre.
+    Coins légèrement arrondis.
+    Doit être très discret — c'est un élément secondaire.
+
+  game_menu/bg.png                     1920 × 1080 px  (pas de transparence)
+  Usage : Background du menu in-game (sauvegarde, options, préférences)
+  Description :
+    Plage au coucher de soleil, très floutée (gaussian blur important).
+    L'image doit être assez sombre pour que le texte blanc soit lisible (overlay sombre).
+    Tons chauds orange/rose/violet. Ambiance crépuscule.
+    Pas de transparence nécessaire : fond plein.
+
+  game_menu/mist_1.png                 512 × 512 px  (tileable horizontalement)
+  Usage : Couche de brume animée qui défile lentement (animation loop ATL)
+  Description :
+    Texture de brume/vapeur douce.
+    Semi-transparent : blanc cassé très léger à 30-40% opacité max.
+    Doit être tileable horizontalement (bords gauche et droit qui se raccordent).
+    Formes organiques, floues, évoquant la brume matinale.
+
+  game_menu/mist_2.png                 512 × 512 px  (tileable horizontalement)
+  Usage : Deuxième couche de brume (vitesse et direction différentes de mist_1)
+  Description :
+    Même principes que mist_1.png mais avec une forme différente pour varier.
+    Peut être légèrement plus grande ou plus diffuse.
+    Aussi tileable horizontalement. Opacité plus basse (~20-30%).
+
+  game_menu/nav_btn.png                248 × 83 px
+  Usage : Bouton de navigation dans les menus (Sauvegarder, Charger, Options…)
+  Description :
+    Panneau rectangulaire aux coins légèrement arrondis.
+    Fond bleu nuit sombre semi-transparent (#0A1F33 à 80%).
+    Fine bordure lumineuse (bleu clair #4A7A9B ou corail en variante hover).
+    Zone centrale vide (texte ajouté par le moteur).
+    Fond transparent autour.
+
+  main_menu.png                        1920 × 1080 px
+  Usage : Overlay décoratif posé sur le menu principal du jeu
+  Description :
+    Image décorative semi-transparente ou avec zones transparentes.
+    Peut inclure :
+      – Logo/titre "SUMMER SHIFT" stylisé (police sable/doré, style "vacances")
+      – Éléments décoratifs : vagues stylisées, palmier, coquillages, étoiles de mer
+      – Overlay subtil qui n'écrase pas le fond
+    Le côté gauche (premier tiers) doit être lisible pour les boutons de menu
+    qui seront affichés dessus.
+    Ambiance légère, estivale, colorée mais pas surchargée.
+
+  scrollbar.png                        44 × 100 px
+  Usage : Barre de défilement verticale (historique des dialogues, menus longs)
+  Description :
+    Capsule/pilule verticale arrondie.
+    Couleur corail (#F4845F) ou blanc crème (#FFF8F0).
+    Fond transparent autour.
+    Simple et lisible.
+
+  options/bar_base.png                 811 × 91 px
+  Usage : Fond des barres de réglage (volume musique, voix, effets…)
+  Description :
+    Barre horizontale longue, style "track" de slider.
+    Fond bleu océan (#1C3F5E), coins arrondis.
+    Légère bordure ou ombre pour donner du relief.
+    Fond transparent autour.
+
+  options/bar_thumb.png                ~50 × 91 px  (centré sur 91px de hauteur)
+  Usage : Curseur glissant sur la barre de réglage
+  Description :
+    Forme ronde ou ovale.
+    Couleur corail (#F4845F) avec légère ombre/glow.
+    Fond transparent autour.
+    Doit ressortir clairement sur bar_base.png.
+
+  cursor.png                           32 × 32 px
+  Usage : Curseur de souris personnalisé affiché dans le jeu
+  Description :
+    Style coquillage simple ou étoile de mer.
+    Couleur blanc/doré (#FFAB40 ou blanc), fond transparent.
+    Le "point de clic" doit être en haut à gauche de l'image (coin du curseur).
+    Design minimaliste et reconnaissable même en petit.
+
+  window_icon.png                      256 × 256 px  (pas de transparence requise)
+  Usage : Icône du jeu (barre des tâches Windows, bureau)
+  Description :
+    Logo "SS" stylisé ou coquillage/ancre stylisée.
+    Fond bleu océan (#1C3F5E) avec l'icône en corail/blanc.
+    Design simple et reconnaissable en très petite taille (16×16 px).
+
+================================================================================
+  SECTION 4 – CG (ILLUSTRATIONS FINS) – OPTIONNEL
+================================================================================
+
+FORMAT
+  – PNG 32-bit, sans transparence nécessaire
+  – Dimensions : 1920 × 1080 px
+  – Style : illustration manga semi-réaliste, plus détaillée que les sprites
+  – Ces illustrations apparaissent une seule fois chaque, lors des bonnes fins
+
+EMPLACEMENT : game/images/cg/
+
+────────────────────────────────────────────────────────────────────────────────
+
+  cg_lina_good.png
+  Description :
+    Lina et Alex (protagonist masculin, apparence à définir par l'artiste
+    ou à indiquer) sur la plage au coucher de soleil.
+    Main dans la main, assis face à la mer. Reflets orange sur l'eau.
+    Ambiance romantique chaleureuse. Lina sourit (expression "lina happy").
+    Composition horizontale, personnages centrés légèrement à droite.
+
+  cg_mina_good.png
+  Description :
+    Mina et Alex dans la salle à manger du resort, dîner intime aux bougies.
+    Assis face à face, regard complice. Bougies et assiettes sur la table.
+    Mina a l'air surprise et émue ("mina surprised" mais en version heureuse).
+    Ambiance tamisée, chaleur des bougies. Composition en profondeur de champ.
+
+  cg_sofia_good.png
+  Description :
+    Sofia et Alex sur la terrasse/balcon de nuit.
+    Coupes de champagne à la main. Vue sur la mer nocturne au fond.
+    Lumières de la côte en arrière-plan. Sofia sourit (rare, donc précieux).
+    Ambiance sophistiquée, adulte, légèrement mystérieuse.
+    Sofia en robe élégante, lumière de lune et lumières chaudes.
+
+  cg_clara_good.png
+  Description :
+    Clara et Alex assis au bord de la piscine, pieds dans l'eau.
+    Clara regarde ailleurs avec des joues très roses (tsundere mode on).
+    Alex la regarde avec un sourire doux.
+    Coucher de soleil orange en arrière-plan.
+    Ambiance douce-amère, cute, légèrement mélancolique.
+    Composition : les deux côte à côte, reflets dans la piscine.
+
+================================================================================
+  RÉCAPITULATIF DES LIVRABLES
+================================================================================
+
+  SPRITES    : 19 fichiers PNG 300×580 px, fond transparent
+  BACKGROUNDS:  9 fichiers PNG 960×640 px, fond plein
+  UI         : 15 fichiers PNG (dimensions variables, voir tableau Section 3)
+  CG         :  4 fichiers PNG 1920×1080 px (optionnel mais recommandé)
+
+  TOTAL      : ~47 fichiers
+
+Pour toute question sur les scénarios, les personnalités ou les décors,
+n'hésitez pas à demander des précisions.
+
+Merci !
+================================================================================

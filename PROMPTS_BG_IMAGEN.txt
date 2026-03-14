@@ -1,0 +1,117 @@
+================================================================================
+  SUMMER SHIFT – PROMPTS IMAGE IA (BACKGROUNDS)
+  Format cible : 960 × 640 px (ratio 3:2)
+  Style global : anime background art, visual novel, no characters, no people
+================================================================================
+
+NOTE : Ajouter ces paramètres à TOUS les prompts si ton outil le permet :
+  – Ratio : 3:2
+  – Style : anime background, visual novel CG background, painterly
+  – Négatif (negative prompt) : people, characters, persons, text, watermark,
+    logo, signature, blurry, low quality, distorted
+
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+1. plagejour.png  –  PLAGE DE JOUR
+────────────────────────────────────────────────────────────────────────────────
+
+anime visual novel background, mediterranean beach scene, white sand beach,
+crystal clear turquoise water, gentle waves, colorful beach umbrellas (red,
+yellow, blue) planted in the sand, bright sunny sky with a few soft white
+clouds, vibrant summer daylight, slight elevated angle as if viewed from a low
+terrace, distant sailboat on the horizon, warm golden sunlight, high saturation,
+clean painterly style, no people, no characters
+
+────────────────────────────────────────────────────────────────────────────────
+2. plage soir.png  –  PLAGE AU COUCHER DU SOLEIL
+────────────────────────────────────────────────────────────────────────────────
+
+anime visual novel background, mediterranean beach at sunset, same beach
+composition as daytime version, dramatic sunset sky gradient from deep orange
+to rose pink to violet purple, golden reflections shimmering on the calm water,
+closed beach umbrellas, a few early stars visible at the top of the sky, soft
+warm orange haze on the horizon, romantic and peaceful atmosphere, painterly
+style, no people, no characters
+
+────────────────────────────────────────────────────────────────────────────────
+3. bar cool.png  –  BAR DU RESORT (NUIT)
+────────────────────────────────────────────────────────────────────────────────
+
+anime visual novel background, tropical outdoor beach bar at night, long dark
+wooden bar counter with high stools, colorful bottles and glasses arranged
+behind the bar, warm amber string lights hanging above, tropical plants (small
+palm trees, bougainvillea) framing the sides, tiki bar aesthetic, soft candlelight
+on tables visible in background, partial view of pool or dark ocean behind,
+cozy intimate nighttime atmosphere, deep warm lighting, painterly style,
+no people, no characters
+
+────────────────────────────────────────────────────────────────────────────────
+4. salle a manger.png  –  SALLE À MANGER DU RESORT
+────────────────────────────────────────────────────────────────────────────────
+
+anime visual novel background, bright mediterranean resort dining room in the
+morning, light wood round tables with crisp white tablecloths, simple tropical
+flower centerpieces, large open windows or glass doors overlooking a blue sea,
+golden morning sunlight streaming in, breakfast buffet visible on one side,
+clean and airy atmosphere, warm natural light, cheerful and welcoming mood,
+painterly style, no people, no characters
+
+────────────────────────────────────────────────────────────────────────────────
+5. patio.png  –  TERRASSE / PISCINE DU RESORT
+────────────────────────────────────────────────────────────────────────────────
+
+anime visual novel background, mediterranean resort terrace with swimming pool,
+light stone patio tiles, crystal blue pool water with light reflections sparkling
+on the surface, white sun loungers with colorful towels, pergola draped with
+hot pink bougainvillea flowers, clear blue sky, ocean view in the distance,
+lush tropical plants in terracotta pots, bright midday sunlight, vibrant and
+luxurious summer atmosphere, painterly style, no people, no characters
+
+────────────────────────────────────────────────────────────────────────────────
+6. chambre 1.png  –  CHAMBRE D'ALEX (PROTAGONISTE)
+────────────────────────────────────────────────────────────────────────────────
+
+anime visual novel background, cozy mediterranean hotel room interior, double
+bed with white and beige linen, wooden headboard, subtle nautical decor (anchor
+motif, blue and white color accents), large window or french door open to a
+view of the beach or garden, warm afternoon sunlight entering the room, travel
+bag and book visible as personal details, clean and comfortable atmosphere,
+warm natural lighting, painterly style, no people, no characters
+
+────────────────────────────────────────────────────────────────────────────────
+7. chambre 2.png  –  CHAMBRE SECONDAIRE (VARIANTE)
+────────────────────────────────────────────────────────────────────────────────
+
+anime visual novel background, mediterranean hotel room interior, slightly
+different from a previous room, feminine touches such as colorful terracotta
+or rose bedspread, small decorative details (flowers in a vase, pastel cushions),
+same window with sea or garden view, same warm natural daylight, cozy and
+inviting mood, slightly warmer color palette than room 1, painterly style,
+no people, no characters
+
+────────────────────────────────────────────────────────────────────────────────
+8. chambre fille 1.png  –  CHAMBRE FÉMININE INTIME
+────────────────────────────────────────────────────────────────────────────────
+
+anime visual novel background, cozy feminine bedroom at evening, polaroid photos
+pinned on the wall, small potted plants on the windowsill, bedside lamp casting
+warm soft light, colorful cushions and throw on the bed, clothes casually on a
+chair (natural lived-in feel), soft evening atmosphere, intimate and personal
+mood, warm dim lighting from lamp and window glow, gentle romantic ambiance,
+painterly style, no people, no characters
+
+────────────────────────────────────────────────────────────────────────────────
+9. parc.png  –  JARDIN DU RESORT / SOURCE
+────────────────────────────────────────────────────────────────────────────────
+
+anime visual novel background, lush mediterranean resort garden, stone path
+bordered by olive trees and lavender bushes, stone fountain in the center,
+vibrant hot pink bougainvillea climbing a white wall, wrought iron bench
+visible, golden late afternoon light casting long warm shadows, peaceful and
+romantic garden atmosphere, rich greens and warm pinks, slightly dappled light
+through foliage, painterly style, no people, no characters
+
+================================================================================
+  FIN DES PROMPTS
+================================================================================

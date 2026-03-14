@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/day2.rpy", line 121: end of line expected.
+    n "Lina arrive la première, topless déjà – "pour bronzer uniformément", dit-elle en riant. Ses seins fermes, bronzés, pointent vers le ciel. Elle plonge sans hésiter, ressort en secouant ses cheveux, gouttes qui perlent sur sa peau nue."
+                                                ^
+
+Ren'Py Version: Ren'Py 8.3.3.24111502
+Sat Mar 14 11:34:11 2026

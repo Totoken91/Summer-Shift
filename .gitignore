@@ -1,0 +1,7 @@
+# Ren'Py compiled files
+game/cache/
+game/**/*.rpyc
+
+# OS
+Thumbs.db
+.DS_Store

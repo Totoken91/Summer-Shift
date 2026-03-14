@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(curl -s \"https://raw.githubusercontent.com/shawna-p/EasyRenPyGui/main/game/screens/dialogue_screens.rpy\")",
+      "Bash(curl -s \"https://raw.githubusercontent.com/shawna-p/EasyRenPyGui/main/game/screens/choice_screen.rpy\")",
+      "Bash(curl -s \"https://raw.githubusercontent.com/shawna-p/EasyRenPyGui/main/game/screens/main_menu.rpy\")",
+      "Bash(curl -s \"https://raw.githubusercontent.com/shawna-p/EasyRenPyGui/main/game/styles.rpy\")",
+      "Bash(SRC=\"C:/Users/kenny/OneDrive/Images/Visual_Novel_BackGround_Images_960X640-431_Images\")",
+      "Bash(DST=\"C:/Users/kenny/OneDrive/Documents/jeu test renpy/aaazzz/game/images/bg\")",
+      "Bash(mkdir -p \"$DST\")",
+      "Bash(cp \"$SRC/\"*.png \"$DST/\")",
+      "Read(//c/Users/kenny/OneDrive/Documents/jeu test renpy/aaazzz/**)",
+      "Bash(find 'C:/Users/kenny/OneDrive/Documents/jeu test renpy/aaazzz/game/' -type f \\\\\\(-name *.png -o -name *.ttf -o -name *.ogg -o -name *.mp3 -o -name *.wav \\\\\\))"
+    ]
+  }
+}
