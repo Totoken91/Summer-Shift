@@ -14,103 +14,103 @@ label day6_morning:
     n "Avant-veille du départ. Je me réveille avec une drôle de sensation dans la poitrine."
     n "Le resort s'est transformé, quelque part. Ou peut-être que c'est moi."
 
-    show sofia confident at right
+    show ines confident at right
 
-    sofia "Bonne nouvelle : deux familles arrivent demain pour le week-end."
-    sofia "Le resort va enfin avoir des clients normaux."
-    alex "Et nous, on va devoir travailler ?"
-    sofia "Comme des professionnels."
-    sofia "Mais aujourd'hui... aujourd'hui est encore tranquille."
+    ines "Bonne nouvelle : deux familles arrivent demain pour le week-end."
+    ines "Le resort va enfin avoir des clients normaux."
+    elio "Et nous, on va devoir travailler ?"
+    ines "Comme des professionnels."
+    ines "Mais aujourd'hui... aujourd'hui est encore tranquille."
 
-    hide sofia confident
+    hide ines confident
 
     n "Une journée tranquille. La dernière vraiment libre."
 
     menu:
-        "Proposer à Lina une session de volley revanche.":
-            $ affinity_lina += 10
-            jump day6_morning_lina
-        "Apporter à Mina du chocolat acheté au village (pour sa prochaine recette).":
-            $ affinity_mina += 10
-            jump day6_morning_mina
-        "Aider Sofia à préparer l'arrivée des clients de demain.":
-            $ affinity_sofia += 10
-            jump day6_morning_sofia
+        "Proposer à Zara une session de volley revanche.":
+            $ affinity_zara += 10
+            jump day6_morning_zara
+        "Apporter à Vesna du chocolat acheté au village (pour sa prochaine recette).":
+            $ affinity_vesna += 10
+            jump day6_morning_vesna
+        "Aider Ines à préparer l'arrivée des clients de demain.":
+            $ affinity_ines += 10
+            jump day6_morning_ines
 
-label day6_morning_lina:
+label day6_morning_zara:
     scene bg beach
     with dissolve
-    show lina laugh at right
+    show zara laugh at right
 
-    n "Lina est déjà sur la plage, balle à la main, sourire malicieux."
+    n "Zara est déjà sur la plage, balle à la main, sourire malicieux."
 
-    lina "Je savais que tu viendrais !"
-    alex "J'ai une réputation à racheter."
-    lina "Tu étais pas {i}si{/i} nul."
-    alex "C'est gentil."
-    lina "Mais quand même un peu."
-    alex "Voilà."
+    zara "Je savais que tu viendrais !"
+    elio "J'ai une réputation à racheter."
+    zara "Tu étais pas {i}si{/i} nul."
+    elio "C'est gentil."
+    zara "Mais quand même un peu."
+    elio "Voilà."
 
     n "On joue deux heures. Je gagne un set. Elle en gagne trois."
     n "Elle danse une petite victoire ridicule, les bras en l'air, les pieds dans le sable."
     n "C'est la chose la plus adorable que j'ai vue de la semaine."
 
-    lina "Tu pars après-demain ?"
-    alex "Oui."
-    lina "C'est con."
-    alex "Je trouve aussi."
-    lina "..."
-    lina "Allez ! Dernier set !"
+    zara "Tu pars après-demain ?"
+    elio "Oui."
+    zara "C'est con."
+    elio "Je trouve aussi."
+    zara "..."
+    zara "Allez ! Dernier set !"
 
-    hide lina laugh
+    hide zara laugh
     jump day6_afternoon_intro
 
-label day6_morning_mina:
+label day6_morning_vesna:
     scene bg kitchen
     with dissolve
-    show mina blush at right
+    show vesna blush at right
 
     n "Je reviens du village avec deux tablettes de chocolat noir et une de chocolat blanc."
-    n "Mina les regarde comme si je lui avais apporté un trésor."
+    n "Vesna les regarde comme si je lui avais apporté un trésor."
 
-    mina "Oh ! C'est... c'était pas nécessaire."
-    alex "Je sais. Mais tu avais mentionné vouloir tester une ganache et..."
-    mina "T'as retenu ça ?"
-    alex "Je retiens tout ce qui concerne la nourriture. C'est une priorité."
+    vesna "Oh ! C'est... c'était pas nécessaire."
+    elio "Je sais. Mais tu avais mentionné vouloir tester une ganache et..."
+    vesna "T'as retenu ça ?"
+    elio "Je retiens tout ce qui concerne la nourriture. C'est une priorité."
 
     n "Elle rit, et pour une fois elle ne cache pas son sourire."
 
-    mina "Alors... si tu veux... je pourrais préparer quelque chose ce soir. Pour toi."
-    mina "Rien de compliqué. Juste... pour remercier."
-    alex "J'accepte avec plaisir."
+    vesna "Alors... si tu veux... je pourrais préparer quelque chose ce soir. Pour toi."
+    vesna "Rien de compliqué. Juste... pour remercier."
+    elio "J'accepte avec plaisir."
 
     n "Il y a une chaleur dans la cuisine qui n'est pas seulement due aux fourneaux."
 
-    hide mina blush
+    hide vesna blush
     jump day6_afternoon_intro
 
-label day6_morning_sofia:
+label day6_morning_ines:
     scene bg room
     with dissolve
-    show sofia soft at right
+    show ines soft at right
 
-    n "On prépare les chambres ensemble. Sofia est plus détendue que d'habitude."
+    n "On prépare les chambres ensemble. Ines est plus détendue que d'habitude."
 
-    sofia "Quand tu reviendras à la mer, tu penseras à cet endroit ?"
-    alex "Probablement. Pourquoi ?"
-    sofia "Je me demandais juste si on laissait une impression durable ou si on était juste un été parmi d'autres."
-    alex "Sofia."
-    sofia "Hm."
-    alex "Cet été ne ressemblera à aucun autre."
-    sofia "..."
-    sofia "Tu es trop jeune pour dire des choses pareilles avec autant d'assurance."
-    alex "Et toi tu es trop élégante pour les balayer d'un revers de main."
+    ines "Quand tu reviendras à la mer, tu penseras à cet endroit ?"
+    elio "Probablement. Pourquoi ?"
+    ines "Je me demandais juste si on laissait une impression durable ou si on était juste un été parmi d'autres."
+    elio "Ines."
+    ines "Hm."
+    elio "Cet été ne ressemblera à aucun autre."
+    ines "..."
+    ines "Tu es trop jeune pour dire des choses pareilles avec autant d'assurance."
+    elio "Et toi tu es trop élégante pour les balayer d'un revers de main."
 
     n "Elle me regarde — vraiment cette fois, pas pour jauger — et sourit doucement."
 
-    sofia "Va m'aider avec le lit de la chambre 7. Il coince."
+    ines "Va m'aider avec le lit de la chambre 7. Il coince."
 
-    hide sofia soft
+    hide ines soft
     jump day6_afternoon_intro
 
 # ── Après-midi Jour 6 – Piscine (dernier P&C) ───────────
@@ -140,14 +140,14 @@ label day6_evening:
         n "Je me rends compte que j'aurais pu être plus courageux cette semaine."
         $ current_day += 1
         jump day_router
-    elif _girl == "lina":
-        jump ev_lina_d6
-    elif _girl == "mina":
-        jump ev_mina_d6
-    elif _girl == "sofia":
-        jump ev_sofia_d6
+    elif _girl == "zara":
+        jump ev_zara_d6
+    elif _girl == "vesna":
+        jump ev_vesna_d6
+    elif _girl == "ines":
+        jump ev_ines_d6
     else:
-        jump ev_clara_d6
+        jump ev_lou_d6
 
 # ════════════════════════════════════════════════════════
 # JOUR 7 – DERNIER JOUR
@@ -165,55 +165,55 @@ label day7_morning:
     n "Et moi, quelque part entre tout ça, j'ai besoin de dire au revoir à quelqu'un."
 
     menu:
-        "Trouver Lina avant la cohue.":
-            $ affinity_lina += 5
-            jump day7_morning_lina
-        "Aller voir Mina en cuisine une dernière fois.":
-            $ affinity_mina += 5
-            jump day7_morning_mina
-        "Frapper à la porte du bureau de Sofia.":
-            $ affinity_sofia += 5
-            jump day7_morning_sofia
+        "Trouver Zara avant la cohue.":
+            $ affinity_zara += 5
+            jump day7_morning_zara
+        "Aller voir Vesna en cuisine une dernière fois.":
+            $ affinity_vesna += 5
+            jump day7_morning_vesna
+        "Frapper à la porte du bureau de Ines.":
+            $ affinity_ines += 5
+            jump day7_morning_ines
 
-label day7_morning_lina:
-    show lina happy at right
-    lina "Hé. T'as pas l'air bien pour quelqu'un qui passe une bonne journée."
-    alex "Je suis triste de partir."
-    lina "Ha. Moi aussi je suis triste que tu partes."
-    lina "C'est quand même la preuve que c'était bien."
-    alex "Ouais."
-    lina "...Alex ?"
-    alex "Hm."
-    lina "Si jamais tu repasses par là... tu viens me dire bonjour ?"
-    alex "C'est une promesse."
-    hide lina happy
+label day7_morning_zara:
+    show zara happy at right
+    zara "Hé. T'as pas l'air bien pour quelqu'un qui passe une bonne journée."
+    elio "Je suis triste de partir."
+    zara "Ha. Moi aussi je suis triste que tu partes."
+    zara "C'est quand même la preuve que c'était bien."
+    elio "Ouais."
+    zara "...Elio ?"
+    elio "Hm."
+    zara "Si jamais tu repasses par là... tu viens me dire bonjour ?"
+    elio "C'est une promesse."
+    hide zara happy
     jump day7_afternoon
 
-label day7_morning_mina:
-    show mina shy at right
-    mina "Tu pars ce soir."
-    alex "Oui."
-    mina "Je... j'ai préparé quelque chose pour le voyage."
+label day7_morning_vesna:
+    show vesna shy at right
+    vesna "Tu pars ce soir."
+    elio "Oui."
+    vesna "Je... j'ai préparé quelque chose pour le voyage."
     n "Elle me tend une boîte soigneusement emballée."
-    mina "Des sablés au citron. Pour la route."
+    vesna "Des sablés au citron. Pour la route."
     n "Je ne sais pas quoi dire. Alors je prends la boîte, et je la regarde dans les yeux."
-    alex "Mina. C'était une semaine extraordinaire."
-    mina "Pour moi aussi."
-    hide mina shy
+    elio "Vesna. C'était une semaine extraordinaire."
+    vesna "Pour moi aussi."
+    hide vesna shy
     jump day7_afternoon
 
-label day7_morning_sofia:
-    show sofia soft at right
-    sofia "Alex. Entre."
+label day7_morning_ines:
+    show ines soft at right
+    ines "Elio. Entre."
     n "Son bureau est rangé. La fenêtre donne sur la mer."
-    sofia "Comment tu te sens ?"
-    alex "Nostalgique. Et je suis même pas encore parti."
-    sofia "C'est bon signe. Ça veut dire que ça valait quelque chose."
-    alex "Sofia..."
-    sofia "Je sais."
+    ines "Comment tu te sens ?"
+    elio "Nostalgique. Et je suis même pas encore parti."
+    ines "C'est bon signe. Ça veut dire que ça valait quelque chose."
+    elio "Ines..."
+    ines "Je sais."
     n "Elle se lève et me tend la main. Formelle, presque. Puis elle change d'avis et pose la main sur mon épaule."
-    sofia "Merci d'avoir été là, Alex. Vraiment."
-    hide sofia soft
+    ines "Merci d'avoir été là, Elio. Vraiment."
+    hide ines soft
     jump day7_afternoon
 
 # ── Après-midi Jour 7 – Moment décisif ──────────────────
@@ -230,104 +230,104 @@ label day7_afternoon:
     if _score < 30:
         jump ending_router   # Pas assez d'affinité → fin sans route
 
-    if _girl == "lina":
-        jump day7_final_lina
-    elif _girl == "mina":
-        jump day7_final_mina
-    elif _girl == "sofia":
-        jump day7_final_sofia
+    if _girl == "zara":
+        jump day7_final_zara
+    elif _girl == "vesna":
+        jump day7_final_vesna
+    elif _girl == "ines":
+        jump day7_final_ines
     else:
-        jump day7_final_clara
+        jump day7_final_lou
 
 # ── Scènes finales Jour 7 ────────────────────────────────
-label day7_final_lina:
-    show lina swimsuit at right
-    lina "Je savais que tu serais là."
-    alex "Tu m'espionnais ?"
-    lina "Je t'observais. C'est différent."
-    alex "Dans quel sens ?"
-    lina "Dans le sens où c'est mignon quand c'est moi qui le fais."
+label day7_final_zara:
+    show zara swimsuit at right
+    zara "Je savais que tu serais là."
+    elio "Tu m'espionnais ?"
+    zara "Je t'observais. C'est différent."
+    elio "Dans quel sens ?"
+    zara "Dans le sens où c'est mignon quand c'est moi qui le fais."
     n "On s'assoit dans le sable. La mer est calme."
-    lina "Alex. Je veux pas que tu partes sans qu'on... enfin."
-    alex "Sans qu'on quoi ?"
-    lina "Sans qu'on soit honnêtes."
-    lina "Cette semaine, c'était pas juste un job d'été. Pour moi."
-    alex "Pour moi non plus."
+    zara "Elio. Je veux pas que tu partes sans qu'on... enfin."
+    elio "Sans qu'on quoi ?"
+    zara "Sans qu'on soit honnêtes."
+    zara "Cette semaine, c'était pas juste un job d'été. Pour moi."
+    elio "Pour moi non plus."
     n "Elle se tourne vers moi. Ses yeux sont sérieux pour la première fois depuis une semaine."
-    lina "Alors ?"
-    jump ending_lina_check
+    zara "Alors ?"
+    jump ending_zara_check
 
-label day7_final_mina:
-    show mina happy at right
-    n "Mina apparaît sur la plage, les chaussures à la main."
-    mina "Je... je voulais te parler avant que tu partes."
-    alex "Je t'écoute."
-    mina "Cette semaine... tu m'as fait me sentir moins seule. En cuisine, ici, partout."
-    mina "Et je sais que c'est bête de dire ça à quelqu'un qui part ce soir."
-    alex "C'est pas bête du tout."
-    mina "Alex... est-ce que tu... tu reviendras ?"
+label day7_final_vesna:
+    show vesna happy at right
+    n "Vesna apparaît sur la plage, les chaussures à la main."
+    vesna "Je... je voulais te parler avant que tu partes."
+    elio "Je t'écoute."
+    vesna "Cette semaine... tu m'as fait me sentir moins seule. En cuisine, ici, partout."
+    vesna "Et je sais que c'est bête de dire ça à quelqu'un qui part ce soir."
+    elio "C'est pas bête du tout."
+    vesna "Elio... est-ce que tu... tu reviendras ?"
     n "Je la regarde. Elle est sincère, vulnérable, magnifique dans la lumière du soir."
-    jump ending_mina_check
+    jump ending_vesna_check
 
-label day7_final_sofia:
-    show sofia swimsuit at right
-    n "Sofia est déjà là, les pieds dans l'eau, le regard vers l'horizon."
-    sofia "J'avais besoin d'air."
-    alex "Moi aussi."
-    sofia "Alors on est pareils."
+label day7_final_ines:
+    show ines swimsuit at right
+    n "Ines est déjà là, les pieds dans l'eau, le regard vers l'horizon."
+    ines "J'avais besoin d'air."
+    elio "Moi aussi."
+    ines "Alors on est pareils."
     n "Un long silence. Le bon genre."
-    sofia "Je pensais qu'un été finirait comme ils finissent tous."
-    sofia "Juste... du travail, des gens qui passent, et puis c'est tout."
-    alex "Et là ?"
-    sofia "Et là, j'ai envie que tu restes."
-    sofia "Ce qui est nouveau pour moi."
-    jump ending_sofia_check
+    ines "Je pensais qu'un été finirait comme ils finissent tous."
+    ines "Juste... du travail, des gens qui passent, et puis c'est tout."
+    elio "Et là ?"
+    ines "Et là, j'ai envie que tu restes."
+    ines "Ce qui est nouveau pour moi."
+    jump ending_ines_check
 
-label day7_final_clara:
-    show clara shy at right
-    n "Clara est là, appuyée contre un rocher, l'air de rien."
-    clara "...T'as besoin de compagnie ou quoi ?"
-    alex "Un peu, oui."
-    clara "Bien. Parce que moi aussi. Mais c'est pas pareil."
-    alex "C'est pas pareil comment ?"
-    clara "C'est pas pareil parce que... moi je reste et toi tu pars."
-    clara "Alors c'est pas du tout pareil."
+label day7_final_lou:
+    show lou shy at right
+    n "Lou est là, appuyée contre un rocher, l'air de rien."
+    lou "...T'as besoin de compagnie ou quoi ?"
+    elio "Un peu, oui."
+    lou "Bien. Parce que moi aussi. Mais c'est pas pareil."
+    elio "C'est pas pareil comment ?"
+    lou "C'est pas pareil parce que... moi je reste et toi tu pars."
+    lou "Alors c'est pas du tout pareil."
     n "Elle croise les bras. Tsundere jusqu'au bout."
     n "Mais ses joues sont roses."
-    jump ending_clara_check
+    jump ending_lou_check
 
 # ── Vérification affinité → fin ──────────────────────────
-label ending_lina_check:
-    if affinity_lina >= 80:
-        jump ending_lina_good
-    elif affinity_lina >= 50:
-        jump ending_lina_normal
+label ending_zara_check:
+    if affinity_zara >= 80:
+        jump ending_zara_good
+    elif affinity_zara >= 50:
+        jump ending_zara_normal
     else:
-        jump ending_lina_bad
+        jump ending_zara_bad
 
-label ending_mina_check:
-    if affinity_mina >= 80:
-        jump ending_mina_good
-    elif affinity_mina >= 50:
-        jump ending_mina_normal
+label ending_vesna_check:
+    if affinity_vesna >= 80:
+        jump ending_vesna_good
+    elif affinity_vesna >= 50:
+        jump ending_vesna_normal
     else:
-        jump ending_mina_bad
+        jump ending_vesna_bad
 
-label ending_sofia_check:
-    if affinity_sofia >= 80:
-        jump ending_sofia_good
-    elif affinity_sofia >= 50:
-        jump ending_sofia_normal
+label ending_ines_check:
+    if affinity_ines >= 80:
+        jump ending_ines_good
+    elif affinity_ines >= 50:
+        jump ending_ines_normal
     else:
-        jump ending_sofia_bad
+        jump ending_ines_bad
 
-label ending_clara_check:
-    if affinity_clara >= 60:
-        jump ending_clara_good
-    elif affinity_clara >= 35:
-        jump ending_clara_normal
+label ending_lou_check:
+    if affinity_lou >= 60:
+        jump ending_lou_good
+    elif affinity_lou >= 35:
+        jump ending_lou_normal
     else:
-        jump ending_clara_bad
+        jump ending_lou_bad
 
 # ── Fin sans route principale ────────────────────────────
 label ending_router:

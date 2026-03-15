@@ -7,7 +7,7 @@
 1. SYNOPSIS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Juillet. Alex, 19 ans, étudiant en architecture, accepte un job d'été
+Juillet. Elio, 19 ans, étudiant en architecture, accepte un job d'été
 à La Vague Dorée — un resort côtier oublié des touristes depuis une
 tempête. Il y passe 7 jours avec une équipe réduite à trois femmes
 (puis quatre à partir du Jour 4). Chaque jour il fait des choix qui
@@ -15,7 +15,7 @@ font monter ou baisser les affinités avec chaque personnage. Le Jour 7,
 la personne avec laquelle il a le plus de lien vient le retrouver, et
 la fin (Bad / Normal / Good) dépend du score d'affinité cumulé.
 
-Durée : 7 jours. Protagoniste : Alex (le joueur). Routes : 4 filles.
+Durée : 7 jours. Protagoniste : Elio (le joueur). Routes : 4 filles.
 Fins possibles : 13 (3 × 4 filles + 1 fin neutre "sans route").
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -50,11 +50,11 @@ SOFIA
   Personnalité : Trentaine (29 ans), divorcée, autoritaire mais juste.
   Regard qui jauge, sourire rare et précieux. Grand-père avait construit
   le resort. Formée en massage sportif. Le resort est sa vie.
-  Détail : ne boit jamais seule, n'apprécie pas le rosé sucré de Lina.
+  Détail : ne boit jamais seule, n'apprécie pas le rosé sucré de Zara.
 
 CLARA
   Couleur : bleu ciel (#99CCFF)
-  Rôle : Nièce de Sofia (18 ans), aide temporaire Jours 4-5
+  Rôle : Nièce de Ines (18 ans), aide temporaire Jours 4-5
   Personnalité : Tsundere. Froide en surface, sincère en profondeur.
   Téléphone vissé à la main, toit-terrasse comme endroit secret.
   Détail : prend des photos en cachette, part le matin du Jour 6,
@@ -96,8 +96,8 @@ LIEUX APRÈS-MIDI PAR JOUR
 FINS
   La fin dépend de la fille avec l'affinité la plus haute AU JOUR 7.
   Si score < 30 au Jour 7 → Fin neutre (pas de route).
-  Clara : seuils légèrement différents (Good ≥ 60, Normal ≥ 35).
-  Lina/Mina/Sofia : Good ≥ 80, Normal ≥ 50, Bad = reste de la route.
+  Lou : seuils légèrement différents (Good ≥ 60, Normal ≥ 35).
+  Zara/Vesna/Ines : Good ≥ 80, Normal ≥ 50, Bad = reste de la route.
 
 INVENTAIRE
   Objets ramassables (P&C) : ball, sunscreen, seashell, towel, herbs
@@ -111,10 +111,10 @@ INVENTAIRE
 
 NARRATEUR : Juillet. Trente-sept degrés à l'ombre, et l'air sent le sel
   et la crème solaire.
-NARRATEUR : Moi, Alex, 19 ans, fauché mais pas idiot, j'ai signé pour
+NARRATEUR : Moi, Elio, 19 ans, fauché mais pas idiot, j'ai signé pour
   un été à La Vague Dorée, un resort côtier oublié des touristes depuis
   la tempête.
-NARRATEUR : La patronne, Sofia Marchetti, dirige l'endroit d'une main
+NARRATEUR : La patronne, Ines Marchetti, dirige l'endroit d'une main
   de fer dans un gant de soie depuis dix ans.
 NARRATEUR : Presque personne cet été. Juste trois femmes… et moi.
 NARRATEUR : Un job tranquille, qu'ils disaient.
@@ -132,36 +132,36 @@ NARRATEUR : Le taxi me lâche devant la façade blanche aux volets bleus
   délavés. La mer miroite comme un miroir brûlant.
 NARRATEUR : Avant que je toque, la porte s'ouvre. Une silhouette apparaît.
 
-[Sofia apparaît à droite]
-SOFIA : Alex, c'est ça ? Sofia Marchetti. Bienvenue.
+[Ines apparaît à droite]
+SOFIA : Elio, c'est ça ? Ines Marchetti. Bienvenue.
 SOFIA : Pose ton sac. Je te présente l'équipe.
 NARRATEUR : La trentaine élégante. Paréo crème noué bas sur les hanches,
   maillot bordeaux. Son regard me détaille de haut en bas, lentement.
 ALEX : Bonjour, madame Marchetti. Enchanté de—
 
-[Lina entre en courant, plateau qui glisse]
+[Zara entre en courant, plateau qui glisse]
 LINA : NOUVEAU !!!
 NARRATEUR : Un plateau jaillit du couloir et s'écrase contre mon épaule.
 LINA : Merde ! Pardon ! T'es entier ? J'ai pas vu que t'étais là, il a
   glissé, je—
-SOFIA : Lina.
+SOFIA : Zara.
 LINA : Oui madame !
 SOFIA : Inspire.
 LINA : … Oui madame.
 NARRATEUR : Elle expire bruyamment, puis me tend une main avec un sourire
   qui fait danser une fossette.
-LINA : Lina ! Barmaid, serveuse, et championne toutes catégories de
+LINA : Zara ! Barmaid, serveuse, et championne toutes catégories de
   petites catastrophes.
 LINA : Tkt, je progresse. L'an dernier j'aurais aussi renversé le mojito
   dessus.
 ALEX : C'est… rassurant.
 LINA : Hein ? Grave !
 
-[Lina sort, Mina apparaît]
-SOFIA : Et voici Mina, notre cuisinière.
+[Zara sort, Vesna apparaît]
+SOFIA : Et voici Vesna, notre cuisinière.
 NARRATEUR : Une silhouette menue se glisse dans l'embrasure. Cheveux
   bruns attachés à la va-vite, tablier qui souligne une taille fine.
-MINA : B… bonjour… Mina. Je suis la chef.
+MINA : B… bonjour… Vesna. Je suis la chef.
 MINA : J'ai… fait des croissants. Si tu veux goûter…
 NARRATEUR : Ses joues rosissent jusqu'aux oreilles.
 ALEX : Avec plaisir, merci. Ça sent divinement bon.
@@ -169,7 +169,7 @@ MINA : Oh… c'est rien… vraiment…
 
 SOFIA : Voilà l'équipe. Toi, tu seras l'homme à tout faire : ménage,
   courses, renfort en salle ou en cuisine quand ça chauffe.
-SOFIA : Et essaie de limiter les dégâts. Lina a déjà le monopole.
+SOFIA : Et essaie de limiter les dégâts. Zara a déjà le monopole.
 NARRATEUR : Un sourire très bref passe sur ses lèvres — carnassier,
   presque. Je déglutis.
 
@@ -178,25 +178,25 @@ NARRATEUR : Vers 11h, j'ai enfin un moment de répit avant le service
 
 ──── CHOIX DU MATIN ────────────────────────────────────────────────────
 
-  [A] "Aller traîner avec Lina au bar."           → affinity_lina  +10
-  [B] "Proposer un coup de main à Mina en cuisine." → affinity_mina  +10
-  [C] "Demander à Sofia s'il y a quelque chose à faire." → affinity_sofia +10
+  [A] "Aller traîner avec Zara au bar."           → affinity_zara  +10
+  [B] "Proposer un coup de main à Vesna en cuisine." → affinity_vesna  +10
+  [C] "Demander à Ines s'il y a quelque chose à faire." → affinity_ines +10
 
 ────────────────────────────────────────────────────────────────────────
 CHOIX A — LINA AU BAR [bg bar]
 ────────────────────────────────────────────────────────────────────────
 
-NARRATEUR : Lina est derrière le comptoir, short en jean coupé très haut,
+NARRATEUR : Zara est derrière le comptoir, short en jean coupé très haut,
   débardeur moulant taché de citron. Elle range des verres en se
   dandinant sur une musique imaginaire.
-LINA : Oh putain, Alex ! T'es venu m'aider ? T'es un ange.
+LINA : Oh putain, Elio ! T'es venu m'aider ? T'es un ange.
 ALEX : Je connais rien au bar, mais je peux essayer…
 LINA : Parfait ! Les mecs qui savent pas ont moins peur de renverser.
   C'est statistique.
 ALEX : T'as des stats là-dessus ?
 LINA : Pas encore. Mais je vais en tenir à partir d'aujourd'hui.
 NARRATEUR : On passe une heure à ranger, à rigoler, à éviter les désastres.
-NARRATEUR : Bilan : deux verres explosés. Les deux par Lina, évidemment.
+NARRATEUR : Bilan : deux verres explosés. Les deux par Zara, évidemment.
 LINA : Pas mon record du mois.
 ALEX : C'est positif ou négatif ?
 LINA : Positif. D'habitude j'en explose trois… et parfois sur un client.
@@ -205,7 +205,7 @@ LINA : Positif. D'habitude j'en explose trois… et parfois sur un client.
 CHOIX B — MINA EN CUISINE [bg kitchen]
 ────────────────────────────────────────────────────────────────────────
 
-NARRATEUR : La cuisine est d'une propreté irréelle. Mina trie des herbes,
+NARRATEUR : La cuisine est d'une propreté irréelle. Vesna trie des herbes,
   tablier noué serré, une mèche qui colle à sa nuque moite.
 MINA : Oh… tu… tu veux aider ?
 ALEX : Si je dérange pas.
@@ -225,10 +225,10 @@ NARRATEUR : Une heure passe. Sa voix douce, ses corrections patientes,
 CHOIX C — SOFIA SUR LA TERRASSE [bg terrace]
 ────────────────────────────────────────────────────────────────────────
 
-NARRATEUR : Sofia est installée sur la terrasse, jambes croisées, carnet
+NARRATEUR : Ines est installée sur la terrasse, jambes croisées, carnet
   sur les genoux. Son paréo s'est entrouvert juste assez.
 ALEX : Madame Marchetti ? Besoin d'un coup de main ?
-SOFIA : Tutoie-moi, Alex. 'Madame' me donne l'impression d'être ta prof
+SOFIA : Tutoie-moi, Elio. 'Madame' me donne l'impression d'être ta prof
   de maths.
 SOFIA : Oui. Ce parasol est mort. Boîte à outils dans le local, deuxième
   porte.
@@ -249,8 +249,8 @@ NARRATEUR : Je pars marcher, torse nu, short mouillé par l'écume.
 
 Hotspots disponibles (Jour 1) :
 
-  [💃 Parler à Lina]
-    LINA : Alex ! T'as mis de la crème ?
+  [💃 Parler à Zara]
+    LINA : Elio ! T'as mis de la crème ?
     ALEX : Euh, pas encore.
     LINA : Mon Dieu. Attends.
     NARRATEUR : Elle attrape un tube de crème et commence à l'appliquer
@@ -259,7 +259,7 @@ Hotspots disponibles (Jour 1) :
     LINA : Ha. Voilà.
     ALEX : Tu en as mis autant sur toi que sur moi.
     LINA : C'est de la protection bi-directionnelle.
-    → affinity_lina +8
+    → affinity_zara +8
 
   [🏐 Ballon de volley]
     NARRATEUR : Un ballon traîne près de l'eau. Je le récupère et me mets
@@ -294,7 +294,7 @@ Si aucune n'atteint 20 : fin solo (voir ci-dessous).
     NARRATEUR : Et ce n'est que le début.
 
   [SOIR LINA D1 — bg bar]
-    LINA : Alex ! Tu m'aides à ranger le bar ?
+    LINA : Elio ! Tu m'aides à ranger le bar ?
     ALEX : Bien sûr.
     NARRATEUR : On range en silence, avec ses blagues nulles en fond sonore.
     NARRATEUR : Je me rends compte que je suis souriant depuis une heure.
@@ -308,7 +308,7 @@ Si aucune n'atteint 20 : fin solo (voir ci-dessous).
     MINA : Je... j'ai fait un dessert en trop. Si tu veux goûter.
     NARRATEUR : C'est un moelleux au chocolat encore tiède.
     NARRATEUR : Je ne dis rien pendant dix secondes. Je savoure.
-    ALEX : Mina. C'est incroyable.
+    ALEX : Vesna. C'est incroyable.
     MINA : C'est juste un moelleux.
     ALEX : Non. C'est une œuvre d'art.
     NARRATEUR : Elle rougit et regarde ses mains.
@@ -318,7 +318,7 @@ Si aucune n'atteint 20 : fin solo (voir ci-dessous).
     ALEX : Très bien, merci.
     SOFIA : Bien. Demain 8h, petit-déjeuner commun.
     NARRATEUR : Elle va partir. Puis s'arrête.
-    SOFIA : Alex. Tu travailles bien. Je voulais le dire.
+    SOFIA : Elio. Tu travailles bien. Je voulais le dire.
     NARRATEUR : Et elle repart. Ce compliment vaut de l'or.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -330,9 +330,9 @@ MATIN [bg resort]
 ────────────────────────────────────────────────────────────────────────
 
 NARRATEUR : Le soleil tape déjà fort. Petit-déjeuner sur la terrasse.
-  Sofia, en bikini triangle noir sous un kimono entrouvert, distribue
+  Ines, en bikini triangle noir sous un kimono entrouvert, distribue
   les tâches d'une voix calme mais autoritaire.
-SOFIA : Alex. Aujourd'hui, on accélère. Réparations, réassort, et un
+SOFIA : Elio. Aujourd'hui, on accélère. Réparations, réassort, et un
   œil sur les clients qui pourraient arriver.
 SOFIA : On est peu, mais on reste professionnels… même si la chaleur
   rend tout un peu plus… distrayant.
@@ -342,20 +342,20 @@ NARRATEUR : Son regard glisse sur mon torse nu un instant.
 
 ──── CHOIX DU MATIN ────────────────────────────────────────────────────
 
-  [A] "Rejoindre Lina qui range les chaises longues sur la plage."
-       → affinity_lina +10
-  [B] "Aider Mina à préparer le buffet du déjeuner."
-       → affinity_mina +10
-  [C] "Suivre Sofia pour l'inventaire des chambres."
-       → affinity_sofia +10
+  [A] "Rejoindre Zara qui range les chaises longues sur la plage."
+       → affinity_zara +10
+  [B] "Aider Vesna à préparer le buffet du déjeuner."
+       → affinity_vesna +10
+  [C] "Suivre Ines pour l'inventaire des chambres."
+       → affinity_ines +10
 
 ────────────────────────────────────────────────────────────────────────
 CHOIX A — LINA À LA PLAGE [bg beach]
 ────────────────────────────────────────────────────────────────────────
 
-NARRATEUR : Lina est déjà en sueur : bikini string jaune fluo, top de
+NARRATEUR : Zara est déjà en sueur : bikini string jaune fluo, top de
   sport coupé court.
-LINA : Alex ! Sauve-moi, je crève de chaud !
+LINA : Elio ! Sauve-moi, je crève de chaud !
 ALEX : Ton système : je porte, tu supervises en mode bikini ?
 LINA : Exactement. T'as capté vite.
 NARRATEUR : On bosse une heure. Elle glisse deux fois, finit par terre,
@@ -369,9 +369,9 @@ LINA : C'est une promesse ?
 CHOIX B — MINA EN CUISINE [bg kitchen]
 ────────────────────────────────────────────────────────────────────────
 
-NARRATEUR : Mina porte un tablier par-dessus un maillot une pièce rouge
+NARRATEUR : Vesna porte un tablier par-dessus un maillot une pièce rouge
   cerise. La sueur perle sur sa clavicule.
-MINA : Alex… tu arrives pile pour goûter.
+MINA : Elio… tu arrives pile pour goûter.
 ALEX : Toujours prêt à tester tes… créations.
 MINA : C'est une sauce épicée. Attention, ça peut brûler.
 NARRATEUR : Elle porte la cuillère à mes lèvres. Nos regards se croisent.
@@ -386,14 +386,14 @@ ALEX : Je raterais ça pour rien au monde.
 CHOIX C — SOFIA EN CHAMBRE [bg room]
 ────────────────────────────────────────────────────────────────────────
 
-NARRATEUR : Chambre 7. Sofia en paréo semi-transparent. Elle se penche
+NARRATEUR : Chambre 7. Ines en paréo semi-transparent. Elle se penche
   pour vérifier le matelas.
 SOFIA : La clim fuit ici aussi. Tu peux regarder ?
 ALEX : Bien sûr.
 SOFIA : À genoux, alors. C'est plus bas.
 NARRATEUR : Je m'exécute. Elle reste debout juste au-dessus. Son parfum
   — vanille et sel — m'envahit.
-SOFIA : Tu as des mains habiles, Alex.
+SOFIA : Tu as des mains habiles, Elio.
 ALEX : Faut bien réparer ce qui chauffe.
 SOFIA : Et ça chauffe beaucoup ici… ces derniers jours.
 NARRATEUR : Elle pose une main sur mon épaule pour 'm'aider' à me relever.
@@ -405,15 +405,15 @@ APRÈS-MIDI JOUR 2 — PISCINE [Point & Click]
 ────────────────────────────────────────────────────────────────────────
 
 NARRATEUR : La piscine est déserte. Eau turquoise, soleil qui tape.
-NARRATEUR : Lina arrive la première, topless — "pour bronzer uniformément".
+NARRATEUR : Zara arrive la première, topless — "pour bronzer uniformément".
   Elle plonge sans hésiter, ressort en secouant ses cheveux.
-NARRATEUR : Mina rougit mais enlève son short — reste en maillot une pièce.
-NARRATEUR : Sofia observe depuis un transat, paréo ouvert.
+NARRATEUR : Vesna rougit mais enlève son short — reste en maillot une pièce.
+NARRATEUR : Ines observe depuis un transat, paréo ouvert.
 
 Hotspots disponibles (Jour 2) :
 
-  [🧹 Aider Lina à nettoyer la piscine]
-    LINA : Alex ! T'arrives juste à temps.
+  [🧹 Aider Zara à nettoyer la piscine]
+    LINA : Elio ! T'arrives juste à temps.
     ALEX : Pour quoi ?
     LINA : J'ai besoin que quelqu'un tienne ça pendant que je—
     NARRATEUR : Elle me tend un filet et s'avance vers le bord.
@@ -422,10 +422,10 @@ Hotspots disponibles (Jour 2) :
     LINA [sous l'eau] : PARDON !
     NARRATEUR : L'eau est froide. On ressort en toussant.
     LINA : …Je crois que la piscine est propre maintenant. L'eau a bougé.
-    → affinity_lina +10
+    → affinity_zara +10
 
-  [🪷 Sofia qui lit en bord de piscine]
-    NARRATEUR : Sofia est allongée sur un transat, livre ouvert,
+  [🪷 Ines qui lit en bord de piscine]
+    NARRATEUR : Ines est allongée sur un transat, livre ouvert,
       lunettes de soleil. Elle entend mes pas.
     SOFIA : Tu nages ?
     ALEX : Je pensais, oui.
@@ -433,17 +433,17 @@ Hotspots disponibles (Jour 2) :
     NARRATEUR : Je plonge. Quand je refais surface, elle a posé son
       livre et me regarde.
     SOFIA : Pas mal.
-    → affinity_sofia +8
+    → affinity_ines +8
 
-  [🍹 Mina apporte des boissons]
-    NARRATEUR : Mina arrive avec un plateau de limonades maison et des
+  [🍹 Vesna apporte des boissons]
+    NARRATEUR : Vesna arrive avec un plateau de limonades maison et des
       petits gâteaux.
     MINA : Je... je pensais que vous auriez soif avec la chaleur...
     ALEX : Tu penses à tout.
     MINA : Ou à peu, selon comment on voit les choses.
     NARRATEUR : On s'assoit au bord de la piscine et on boit les
       limonades ensemble. C'est parfait. Absolument parfait.
-    → affinity_mina +8
+    → affinity_vesna +8
 
   [🏖 Serviette oubliée]
     NARRATEUR : Une serviette oubliée, encore humide, pleine de sable.
@@ -464,24 +464,24 @@ SOIR JOUR 2
     NARRATEUR : Je dîne seul, la peau encore chaude de soleil et de
       regards. La nuit promet d'être longue.
 
-  [SOIR LINA D2 — bg terrace] (si affinity_lina ≥ 30)
-    NARRATEUR : Lina est sur la terrasse avec deux limonades. Elle en
+  [SOIR LINA D2 — bg terrace] (si affinity_zara ≥ 30)
+    NARRATEUR : Zara est sur la terrasse avec deux limonades. Elle en
       tend une sans que je demande.
     LINA : T'avais l'air d'en avoir besoin.
     ALEX : Tu lis dans les pensées ?
     LINA : Non, juste dans les mines défaites.
     NARRATEUR : On parle jusqu'au coucher du soleil. De tout et de rien.
-    LINA : Alex... tu penses qu'on se reverra après cette semaine ?
+    LINA : Elio... tu penses qu'on se reverra après cette semaine ?
     ALEX : Si ça dépend de moi, oui.
     LINA : Ça me va.
     NARRATEUR : Elle sourit, les yeux sur la mer. Pas sur moi. Mais le
       sourire est pour moi.
 
-    (si affinity_lina < 30)
-    NARRATEUR : Lina passe en coup de vent, un plateau sous le bras.
-    LINA : Bonne nuit, Alex !
+    (si affinity_zara < 30)
+    NARRATEUR : Zara passe en coup de vent, un plateau sous le bras.
+    LINA : Bonne nuit, Elio !
 
-  [SOIR MINA D2 — bg kitchen] (si affinity_mina ≥ 30)
+  [SOIR MINA D2 — bg kitchen] (si affinity_vesna ≥ 30)
     MINA : Tu veux qu'on prépare quelque chose ensemble ce soir ?
     ALEX : Tu m'apprendras ?
     MINA : Je vais essayer.
@@ -491,11 +491,11 @@ SOIR JOUR 2
     NARRATEUR : Je doute que ce soit vrai, mais j'apprécie qu'elle le
       dise.
 
-    (si affinity_mina < 30)
-    MINA : Bonne nuit, Alex !
+    (si affinity_vesna < 30)
+    MINA : Bonne nuit, Elio !
 
-  [SOIR SOFIA D2 — bg terrace] (si affinity_sofia ≥ 30)
-    NARRATEUR : Sofia sur la terrasse, un verre de blanc à la main.
+  [SOIR SOFIA D2 — bg terrace] (si affinity_ines ≥ 30)
+    NARRATEUR : Ines sur la terrasse, un verre de blanc à la main.
       Elle lève les yeux quand j'arrive.
     SOFIA : Tu veux t'asseoir ?
     ALEX : Si j'y suis invité.
@@ -509,8 +509,8 @@ SOIR JOUR 2
       murs.
     NARRATEUR : Je regarde la bâtisse sous un angle nouveau.
 
-    (si affinity_sofia < 30)
-    SOFIA : Bonne nuit, Alex.
+    (si affinity_ines < 30)
+    SOFIA : Bonne nuit, Elio.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 7. JOUR 3
@@ -523,13 +523,13 @@ MATIN [bg kitchen]
 NARRATEUR : Troisième matin. La chaleur est déjà là à 7h30, collante,
   presque vivante. La fenêtre ouverte laisse entrer le bruit des vagues
   et une odeur saline mêlée de café.
-NARRATEUR : Sofia est attablée, carnet ouvert, stylo en main. Débardeur
+NARRATEUR : Ines est attablée, carnet ouvert, stylo en main. Débardeur
   fin, short en jean coupé très haut, cheveux relevés en chignon lâche,
   mèches collées à la nuque.
 
 SOFIA : Aujourd'hui on passe la vitesse supérieure. Les premiers vrais
   clients arrivent peut-être demain.
-SOFIA : Mina inventaire + prep. Lina terrasse & extérieurs.
+SOFIA : Vesna inventaire + prep. Zara terrasse & extérieurs.
   Moi chambres + bookings.
 SOFIA : Toi… tu choisis ton camp. Ou ton poison.
 ALEX : Je peux aussi rester ici et te regarder cocher des cases ?
@@ -538,24 +538,24 @@ SOFIA : Tente. Mais je mords quand on me ralentit.
 
 ──── CHOIX DU MATIN ────────────────────────────────────────────────────
 
-  [A] "Rejoindre Lina sur la terrasse."     → affinity_lina  +12
-  [B] "Aider Mina en cuisine / stock."      → affinity_mina  +12
-  [C] "Suivre Sofia dans les chambres."     → affinity_sofia +12
+  [A] "Rejoindre Zara sur la terrasse."     → affinity_zara  +12
+  [B] "Aider Vesna en cuisine / stock."      → affinity_vesna  +12
+  [C] "Suivre Ines dans les chambres."     → affinity_ines +12
 
 ────────────────────────────────────────────────────────────────────────
 CHOIX A — LINA SUR LA TERRASSE [bg terrace]
 ────────────────────────────────────────────────────────────────────────
 
-[CG prévu : Lina à quatre pattes sur la terrasse ensoleillée, short
+[CG prévu : Zara à quatre pattes sur la terrasse ensoleillée, short
  jean ultra-court, débardeur qui glisse sur une épaule, gouttes de
- sueur sur la clavicule, sourire espiègle vers Alex.]
+ sueur sur la clavicule, sourire espiègle vers Elio.]
 
-NARRATEUR : Lina est à quatre pattes sur le carrelage déjà brûlant,
+NARRATEUR : Zara est à quatre pattes sur le carrelage déjà brûlant,
   short retroussé très haut. Le débardeur glisse régulièrement sur
   une épaule. Elle se redresse en m'entendant, passe le revers de la
   main sur son front — trace de poussière.
 
-LINA : Alex ! Timing parfait. Les palmiers en pot là-haut… faut
+LINA : Elio ! Timing parfait. Les palmiers en pot là-haut… faut
   dépoussiérer les feuilles. Moi je passe pas.
 ALEX : Perchoir humain de luxe, c'est ça ?
 LINA : Perchoir mignon, grand… et avec une vue imprenable sur l'horizon.
@@ -568,14 +568,14 @@ LINA : T'as déjà choisi avec qui regarder le coucher de soleil ce soir ?
 CHOIX B — MINA EN CUISINE [bg kitchen]
 ────────────────────────────────────────────────────────────────────────
 
-[CG prévu : Mina perchée sur un tabouret, carnet dans une main, crayon
+[CG prévu : Vesna perchée sur un tabouret, carnet dans une main, crayon
  derrière l'oreille, tablier sali de farine et chocolat, lunettes,
- léger blush en voyant Alex entrer.]
+ léger blush en voyant Elio entrer.]
 
-NARRATEUR : Mina est perchée sur un tabouret, vérifie des dates sur des
+NARRATEUR : Vesna est perchée sur un tabouret, vérifie des dates sur des
   boîtes. Tablier par-dessus un t-shirt trop grand.
 
-MINA : Oh— Alex ! Je… j'avais pas entendu. Tu veux aider ?
+MINA : Oh— Elio ! Je… j'avais pas entendu. Tu veux aider ?
 ALEX : Seulement si tu promets de ne pas rougir à chaque contact de main.
 MINA : Je rougis pas… enfin… pas tout le temps.
 NARRATEUR : Nos doigts se croisent sur le stylo. Personne ne retire sa
@@ -588,11 +588,11 @@ MINA : … c'est déjà une bonne raison que tu sois là, non ?
 CHOIX C — SOFIA EN CHAMBRE [bg room]
 ────────────────────────────────────────────────────────────────────────
 
-[CG prévu : Sofia et Alex tirent ensemble un drap blanc au-dessus du lit,
+[CG prévu : Ines et Elio tirent ensemble un drap blanc au-dessus du lit,
  regards intenses qui se croisent au-dessus du tissu, kimono léger
  entrouvert, bretelle fine visible, tension palpable.]
 
-NARRATEUR : Chambre 3. Sofia tire sur les draps avec une précision
+NARRATEUR : Chambre 3. Ines tire sur les draps avec une précision
   chirurgicale. Son kimono en soie légère s'entrouvre à chaque mouvement.
 
 SOFIA : Attrape l'autre côté. On gagne du temps à deux.
@@ -611,7 +611,7 @@ APRÈS-MIDI JOUR 3 — CUISINE [Point & Click]
 
 Hotspots disponibles (Jour 3) :
 
-  [🍫 Aider Mina avec sa recette]
+  [🍫 Aider Vesna avec sa recette]
     MINA : Oh ! Tu tombes bien.
     MINA : J'ai besoin d'un avis honnête sur ce glaçage au chocolat.
     NARRATEUR : Elle trempe une cuillère dans le bol et me la tend.
@@ -623,10 +623,10 @@ Hotspots disponibles (Jour 3) :
     MINA : Si tu... si tu veux, tu peux rester goûter le résultat
       final ce soir ?
     ALEX : Avec plaisir.
-    → affinity_mina +10
+    → affinity_vesna +10
 
-  [🥐 Lina qui grignote en cachette]
-    NARRATEUR : Lina est planquée derrière le réfrigérateur ouvert,
+  [🥐 Zara qui grignote en cachette]
+    NARRATEUR : Zara est planquée derrière le réfrigérateur ouvert,
       en train de grignoter un croissant. Elle sursaute.
     LINA : Je... je vérifiais les stocks !
     ALEX : En mangeant le stock ?
@@ -635,10 +635,10 @@ Hotspots disponibles (Jour 3) :
     LINA : Parfait. Viens, j'en ai un autre.
     NARRATEUR : On mange des croissants debout devant le frigo.
       C'est la meilleure chose de la journée.
-    → affinity_lina +6
+    → affinity_zara +6
 
-  [🍷 Sofia qui goûte les vins]
-    NARRATEUR : Sofia est penchée sur un présentoir de vins,
+  [🍷 Ines qui goûte les vins]
+    NARRATEUR : Ines est penchée sur un présentoir de vins,
       verre à la main.
     SOFIA : Tu t'y connais en vin ?
     ALEX : Pas vraiment.
@@ -649,7 +649,7 @@ Hotspots disponibles (Jour 3) :
     ALEX : C'est bon... et ça me rappelle quelque chose que je saurai
       pas nommer.
     SOFIA : ... C'est la meilleure réponse que j'aie entendue.
-    → affinity_sofia +8
+    → affinity_ines +8
 
   [🌿 Herbes aromatiques]
     NARRATEUR : Un pot de basilic frais sur le rebord de la fenêtre.
@@ -666,14 +666,14 @@ Hotspots disponibles (Jour 3) :
       voulais tester avec toi. Ce soir, si tu veux.
     NARRATEUR : Le ton de sa voix a changé. Plus doux. Presque un
       murmure.
-    → affinity_mina +10
+    → affinity_vesna +10
 
 ────────────────────────────────────────────────────────────────────────
 SOIR JOUR 3
 ────────────────────────────────────────────────────────────────────────
 
-  [SOIR LINA D3 — bg beach_soir] (si affinity_lina ≥ 40)
-    NARRATEUR : Lina m'attend sur la plage au crépuscule. Elle dessine
+  [SOIR LINA D3 — bg beach_soir] (si affinity_zara ≥ 40)
+    NARRATEUR : Zara m'attend sur la plage au crépuscule. Elle dessine
       quelque chose dans le sable du bout du pied.
     LINA : T'arrives ! Je pensais que t'avais oublié.
     ALEX : T'avais pas dit qu'on avait rendez-vous.
@@ -689,11 +689,11 @@ SOIR JOUR 3
     NARRATEUR : Elle me prend le bras, spontanément. Je la laisse faire.
       C'est effectivement la chose la plus naturelle du monde.
 
-    (si affinity_lina < 40)
+    (si affinity_zara < 40)
     LINA : Bonne nuit !
 
-  [SOIR MINA D3 — bg kitchen] (si affinity_mina ≥ 40)
-    NARRATEUR : La cuisine après le service. Mina prépare sa ganache.
+  [SOIR MINA D3 — bg kitchen] (si affinity_vesna ≥ 40)
+    NARRATEUR : La cuisine après le service. Vesna prépare sa ganache.
     MINA : Tu vas me porter malheur.
     ALEX : Les spectateurs portent malheur ?
     MINA : Parfois.
@@ -705,15 +705,15 @@ SOIR JOUR 3
     NARRATEUR : Je lui montre la spatule. Elle rit — vraiment — et ne
       cache pas son rire. C'est la première fois.
 
-    (si affinity_mina < 40)
+    (si affinity_vesna < 40)
     MINA : Le dessert est prêt, si tu veux.
 
-  [SOIR SOFIA D3 — bg terrace] (si affinity_sofia ≥ 40)
-    NARRATEUR : Sofia est là avec une bouteille de rouge ouverte et
+  [SOIR SOFIA D3 — bg terrace] (si affinity_ines ≥ 40)
+    NARRATEUR : Ines est là avec une bouteille de rouge ouverte et
       deux verres.
     SOFIA : Je ne bois jamais seule.
-    ALEX : Tu pouvais appeler Lina.
-    SOFIA : Lina boit du rosé sucré. Ça m'énerve.
+    ALEX : Tu pouvais appeler Zara.
+    SOFIA : Zara boit du rosé sucré. Ça m'énerve.
     NARRATEUR : On boit. Elle me parle de son divorce — brièvement,
       sans amertume.
     SOFIA : C'était mieux pour nous deux. On le savait depuis longtemps.
@@ -724,15 +724,15 @@ SOIR JOUR 3
     SOFIA : Ce serait différent.
     NARRATEUR : Elle me regarde — vraiment — et sourit légèrement.
 
-    (si affinity_sofia < 40)
-    NARRATEUR : Je croise Sofia qui vérifie les volets.
+    (si affinity_ines < 40)
+    NARRATEUR : Je croise Ines qui vérifie les volets.
     SOFIA : Bonne nuit.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 8. JOUR 4 — ARRIVÉE DE CLARA
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-(clara_available passe à True — Clara rejoint le jeu)
+(lou_available passe à True — Lou rejoint le jeu)
 
 ────────────────────────────────────────────────────────────────────────
 MATIN [bg resort]
@@ -742,31 +742,31 @@ NARRATEUR : Je descends pour le petit-déjeuner et je trouve une inconnue
   assise à la table du personnel.
 NARRATEUR : Dix-huit ans, cheveux courts, t-shirt à rayures. Elle regarde
   son téléphone en ignorant tout le monde.
-SOFIA : Alex. Je te présente Clara, ma nièce.
+SOFIA : Elio. Je te présente Lou, ma nièce.
 SOFIA : Elle passe quelques jours pour donner un coup de main.
-SOFIA : Clara, dis bonjour.
+SOFIA : Lou, dis bonjour.
 CLARA : ...
 CLARA : Bonjour.
 NARRATEUR : Elle lève les yeux de son téléphone le temps de me jeter un
   regard, puis le rebaisse. Super accueil.
-ALEX : Bonjour ! Je suis Alex.
+ALEX : Bonjour ! Je suis Elio.
 CLARA : Je sais. Tata m'a dit.
 NARRATEUR : Et voilà. Fin de la conversation.
 
 ──── CHOIX DU MATIN ────────────────────────────────────────────────────
 
-  [A] "Essayer d'engager la conversation avec Clara."
-       → affinity_clara +10
-  [B] "Retrouver Lina pour la session de plage prévue."
-       → affinity_lina +10
-  [C] "Aller voir si Mina a besoin d'aide en cuisine."
-       → affinity_mina +10
+  [A] "Essayer d'engager la conversation avec Lou."
+       → affinity_lou +10
+  [B] "Retrouver Zara pour la session de plage prévue."
+       → affinity_zara +10
+  [C] "Aller voir si Vesna a besoin d'aide en cuisine."
+       → affinity_vesna +10
 
 ────────────────────────────────────────────────────────────────────────
 CHOIX A — CLARA SUR LA TERRASSE [bg terrace]
 ────────────────────────────────────────────────────────────────────────
 
-NARRATEUR : Je sors sur la terrasse avec mon café. Clara est là, appuyée
+NARRATEUR : Je sors sur la terrasse avec mon café. Lou est là, appuyée
   contre la rambarde.
 ALEX : Belle vue, hein ?
 CLARA : C'est une mer. Comme partout sur la côte.
@@ -776,7 +776,7 @@ ALEX : Honnêtement ? Je savais pas.
 NARRATEUR : Un silence. Puis elle rit. Juste un peu. Très vite réprimé.
 CLARA : Au moins t'es honnête.
 ALEX : Je fais de mon mieux.
-CLARA : Sofia dit que t'es utile.
+CLARA : Ines dit que t'es utile.
 ALEX : C'est son plus grand compliment.
 CLARA : Je sais. C'est pour ça que je te le dis.
 NARRATEUR : Elle retourne à son téléphone. Mais cette fois elle ne
@@ -786,12 +786,12 @@ NARRATEUR : Elle retourne à son téléphone. Mais cette fois elle ne
 CHOIX B — LINA À LA PLAGE [bg beach]
 ────────────────────────────────────────────────────────────────────────
 
-NARRATEUR : Lina m'attendait à la plage avec deux raquettes et un sourire
+NARRATEUR : Zara m'attendait à la plage avec deux raquettes et un sourire
   dangereux.
 LINA : BEACH VOLLEY !
-ALEX : C'est une invitation ou une déclaration de guerre ?
+ALEX : C'est une invitation ou une déloution de guerre ?
 LINA : Les deux. On joue ?
-NARRATEUR : On joue. Lina est étonnamment bonne — pour quelqu'un qui
+NARRATEUR : On joue. Zara est étonnamment bonne — pour quelqu'un qui
   renverse des verres en permanence.
 LINA : T'es nul !
 ALEX : Je suis débutant.
@@ -806,14 +806,14 @@ LINA : Boo.
 CHOIX C — MINA EN CUISINE [bg kitchen]
 ────────────────────────────────────────────────────────────────────────
 
-MINA : Alex ! Parfait timing.
+MINA : Elio ! Parfait timing.
 MINA : J'essaie une recette de fondant au chocolat et j'ai besoin d'un
   avis sur la texture.
 ALEX : Je suis disponible pour souffrir de cette façon.
 MINA : Ha... tu souffres pas, là.
 NARRATEUR : Elle rit — un petit rire discret qu'elle cache derrière sa
   main. Je goûte le fondant. Il est parfait.
-ALEX : Mina... tu es sérieusement trop douée.
+ALEX : Vesna... tu es sérieusement trop douée.
 MINA : C'est trop sucré ?
 ALEX : C'est parfait. Vraiment.
 MINA : J'ai aussi une ganache au chocolat blanc. C'est... expérimentale.
@@ -824,22 +824,22 @@ APRÈS-MIDI JOUR 4 — PLAGE [Point & Click]
 ────────────────────────────────────────────────────────────────────────
 
 NARRATEUR : Retour à la plage. Le soleil est à son pic.
-NARRATEUR : Clara rôde dans le coin — à distance, mais elle est là.
+NARRATEUR : Lou rôde dans le coin — à distance, mais elle est là.
 
 Hotspots disponibles (Jour 4) :
 
-  [💃 Parler à Lina]
+  [💃 Parler à Zara]
     LINA : Rematch de volley ?
     ALEX : Toujours.
-    NARRATEUR : La partie est serrée. Lina plonge, ripe dans le sable,
+    NARRATEUR : La partie est serrée. Zara plonge, ripe dans le sable,
       se relève en riant. Son débardeur est couvert de sable.
     LINA : Ton service est meilleur qu'avant.
     ALEX : J'apprends vite.
     LINA : Ou je t'inspire.
-    → affinity_lina +10
+    → affinity_zara +10
 
   [🏐 Ballon de volley]
-    NARRATEUR : Je ramasse le ballon. Clara est dans le coin, bras croisés.
+    NARRATEUR : Je ramasse le ballon. Lou est dans le coin, bras croisés.
     ALEX : Tu joues ?
     CLARA : Je joue pas au volley.
     ALEX : J'ai pas dit volley.
@@ -848,20 +848,20 @@ Hotspots disponibles (Jour 4) :
       sèchement. Très sèchement.
     CLARA : T'es nul.
     ALEX : Mais je m'améliore.
-    → affinity_clara +8
+    → affinity_lou +8
 
   [🧴 Crème solaire]
-    NARRATEUR : Mina est assise à l'ombre, livre à la main, visiblement
+    NARRATEUR : Vesna est assise à l'ombre, livre à la main, visiblement
       peu habituée à être sur la plage.
-    MINA : Oh ! Alex. Tu... tu veux la chaise ?
+    MINA : Oh ! Elio. Tu... tu veux la chaise ?
     ALEX : Non, je voulais juste te proposer de la crème.
       T'as l'air de l'avoir oubliée.
     MINA : Je... merci. C'est gentil.
     NARRATEUR : Elle me tend son épaule avec une timidité absolue.
-    → affinity_mina +8
+    → affinity_vesna +8
 
   [🌊 Aller dans l'eau]
-    NARRATEUR : Sofia entre dans l'eau à côté de moi. Maillot une pièce
+    NARRATEUR : Ines entre dans l'eau à côté de moi. Maillot une pièce
       bordeaux. Elle est magnifique et elle le sait.
     SOFIA : L'eau est bonne aujourd'hui.
     ALEX : Très.
@@ -870,16 +870,16 @@ Hotspots disponibles (Jour 4) :
     SOFIA : Essaie pas. Nage.
     NARRATEUR : On nage jusqu'au petit ponton et on revient en silence.
       Un silence éloquent.
-    → affinity_sofia +8
+    → affinity_ines +8
 
   [🐚 Coquillage bizarre] (dispo depuis J2)
     NARRATEUR : Le même coquillage violet-blanc traîne encore là.
       Je le ramasse et pense à qui le mérite.
     → Ajoute "seashell" à l'inventaire si absent
 
-  [👀 Quelqu'un derrière le parasol ?] (J4 uniquement, si clara_available)
+  [👀 Quelqu'un derrière le parasol ?] (J4 uniquement, si lou_available)
     NARRATEUR : Un bruit derrière le grand parasol rayé. Je m'approche.
-    NARRATEUR : Clara est là, téléphone à la main — mais l'objectif
+    NARRATEUR : Lou est là, téléphone à la main — mais l'objectif
       était clairement vers moi il y a deux secondes.
     ALEX : ...Tu prenais une photo ?
     CLARA : NON.
@@ -890,7 +890,7 @@ Hotspots disponibles (Jour 4) :
     CLARA : Il y avait un oiseau.
     ALEX : Bien sûr.
     NARRATEUR : Elle est cramoisie. Je ne dis plus rien. Mais je souris.
-    → affinity_clara +12
+    → affinity_lou +12
 
 ────────────────────────────────────────────────────────────────────────
 SOIR JOUR 4
@@ -898,11 +898,11 @@ SOIR JOUR 4
 
   (score < 30) → Soirée calme en groupe. Pas de scène individuelle.
 
-  [SOIR LINA D4 — bg bar] (si affinity_lina ≥ 50)
+  [SOIR LINA D4 — bg bar] (si affinity_zara ≥ 50)
     LINA : Fermeture du bar. Tu restes ?
     ALEX : Si tu veux de la compagnie.
     LINA : Je pose la question, donc oui.
-    NARRATEUR : Les lumières du bar sont basses. Lina prépare deux
+    NARRATEUR : Les lumières du bar sont basses. Zara prépare deux
       cocktails sans demander ce que je veux.
     LINA : Goûte.
     ALEX : C'est excellent.
@@ -912,20 +912,20 @@ SOIR JOUR 4
     LINA : ...Vraiment ?
     ALEX : Vraiment.
     NARRATEUR : Le bar est silencieux. La mer bruisse dehors.
-    LINA : Alex. Est-ce que je peux te faire un câlin ?
+    LINA : Elio. Est-ce que je peux te faire un câlin ?
     ALEX : Euh— oui, bien sûr.
     NARRATEUR : Elle passe les bras autour de mes épaules et reste là
       un long moment. C'est inattendu. C'est parfait.
 
-    (si 30 ≤ affinity_lina < 50)
+    (si 30 ≤ affinity_zara < 50)
     LINA : Cocktail de fin de journée ?
     ALEX : Avec plaisir.
     NARRATEUR : On passe une heure agréable. Les mots se font rares.
 
-    (si affinity_lina < 30)
+    (si affinity_zara < 30)
     LINA : Bonne nuit !
 
-  [SOIR MINA D4 — bg kitchen] (si affinity_mina ≥ 50)
+  [SOIR MINA D4 — bg kitchen] (si affinity_vesna ≥ 50)
     MINA : Ce soir, je teste la ganache spéciale.
     ALEX : Avec moi ?
     MINA : Si tu veux. Tu es mon meilleur cobaye.
@@ -935,17 +935,17 @@ SOIR JOUR 4
     MINA : Exactement.
     NARRATEUR : On se regarde. Elle est proche. Plus proche qu'en
       cuisine d'habitude.
-    MINA : Alex... je... merci d'être là. Pour goûter. Pour tout.
+    MINA : Elio... je... merci d'être là. Pour goûter. Pour tout.
     NARRATEUR : Je pose ma main sur la sienne. Elle ne la retire pas.
 
-    (si 30 ≤ affinity_mina < 50)
+    (si 30 ≤ affinity_vesna < 50)
     NARRATEUR : On goûte les chocolats ensemble. Simple, doux, agréable.
 
-    (si affinity_mina < 30)
-    NARRATEUR : Mina range sa cuisine. Je passe dire bonne nuit.
+    (si affinity_vesna < 30)
+    NARRATEUR : Vesna range sa cuisine. Je passe dire bonne nuit.
 
-  [SOIR SOFIA D4 — bg terrace] (si affinity_sofia ≥ 50)
-    SOFIA : Alex. Soirée vin ?
+  [SOIR SOFIA D4 — bg terrace] (si affinity_ines ≥ 50)
+    SOFIA : Elio. Soirée vin ?
     ALEX : C'est devenu un rituel.
     SOFIA : Les bons trucs deviennent des rituels.
     NARRATEUR : Ce soir elle est plus détendue. Elle enlève ses
@@ -953,7 +953,7 @@ SOIR JOUR 4
     SOFIA : C'est ma vraie façon d'être, là.
     ALEX : Je préfère ça.
     SOFIA : Je sais. Et c'est pour ça que je me permets.
-    SOFIA : Alex.
+    SOFIA : Elio.
     ALEX : Hm.
     SOFIA : T'es jeune.
     ALEX : 19 ans.
@@ -964,21 +964,21 @@ SOIR JOUR 4
     NARRATEUR : Elle rit — un vrai rire, rare — et renverse presque
       son verre.
 
-    (si 30 ≤ affinity_sofia < 50)
+    (si 30 ≤ affinity_ines < 50)
     NARRATEUR : Soirée vins. On parle peu, mais bien.
 
-    (si affinity_sofia < 30)
+    (si affinity_ines < 30)
     SOFIA : Bonne nuit.
 
-  [SOIR CLARA D4 — bg terrace] (si affinity_clara ≥ 30)
-    NARRATEUR : Clara est sur la terrasse avec son téléphone. Quand
+  [SOIR CLARA D4 — bg terrace] (si affinity_lou ≥ 30)
+    NARRATEUR : Lou est sur la terrasse avec son téléphone. Quand
       elle me voit, elle range très vite quelque chose.
     ALEX : Tu regardais quoi ?
     CLARA : La météo.
     ALEX : Il fait beau.
     CLARA : Justement, ça m'étonnait.
     NARRATEUR : Silence.
-    ALEX : Clara.
+    ALEX : Lou.
     CLARA : Quoi.
     ALEX : T'es sympa quand tu fais pas semblant d'être agaçante.
     CLARA : ...
@@ -987,7 +987,7 @@ SOIR JOUR 4
     NARRATEUR : C'est probablement un compliment. Je le prends comme
       tel.
 
-    (si affinity_clara < 30)
+    (si affinity_lou < 30)
     CLARA : Bonne nuit.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -999,22 +999,22 @@ NARRATEUR : Avant-dernier jour complet. L'air est lourd, le soleil
 
 ──── CHOIX DU MATIN ────────────────────────────────────────────────────
 
-  [A] "Rejoindre Lina pour l'inventaire du bar."
-       → affinity_lina +10
-  [B] "Aider Mina à préparer le dîner spécial du soir."
-       → affinity_mina +10
-  [C] "Accompagner Sofia pour sa promenade matinale."
-       → affinity_sofia +10
-  [D] "Chercher Clara, qui a mystérieusement disparu."
-       → affinity_clara +10
+  [A] "Rejoindre Zara pour l'inventaire du bar."
+       → affinity_zara +10
+  [B] "Aider Vesna à préparer le dîner spécial du soir."
+       → affinity_vesna +10
+  [C] "Accompagner Ines pour sa promenade matinale."
+       → affinity_ines +10
+  [D] "Chercher Lou, qui a mystérieusement disparu."
+       → affinity_lou +10
 
 ────────────────────────────────────────────────────────────────────────
 CHOIX A — LINA AU BAR [bg bar]
 ────────────────────────────────────────────────────────────────────────
 
-NARRATEUR : Le bar du matin est calme. Lina compte des bouteilles en
+NARRATEUR : Le bar du matin est calme. Zara compte des bouteilles en
   marmonnant des chiffres aléatoires.
-LINA : Sept... huit... attends non— Alex ! Recommence depuis le début
+LINA : Sept... huit... attends non— Elio ! Recommence depuis le début
   avec moi.
 ALEX : Tu veux que je compte tes bouteilles ?
 LINA : Je veux quelqu'un qui compte pendant que moi j'essaie de pas
@@ -1022,7 +1022,7 @@ LINA : Je veux quelqu'un qui compte pendant que moi j'essaie de pas
 ALEX : C'est une stratégie intéressante.
 NARRATEUR : On compte. Ça prend trois fois plus longtemps que nécessaire
   mais c'est bien plus drôle.
-LINA : Alex ?
+LINA : Elio ?
 ALEX : Hm ?
 LINA : Quand tu repars, là... l'été finit et tout...
 LINA : C'est dommage.
@@ -1033,7 +1033,7 @@ LINA : Enfin bref ! Vingt-deux, vingt-trois...
 CHOIX B — MINA EN CUISINE [bg kitchen]
 ────────────────────────────────────────────────────────────────────────
 
-NARRATEUR : Mina prépare une sauce lentement, en ajoutant des épices
+NARRATEUR : Vesna prépare une sauce lentement, en ajoutant des épices
   avec soin.
 ALEX : Je peux aider ?
 MINA : Tu peux... goûter et me dire si c'est assez relevé ?
@@ -1050,7 +1050,7 @@ NARRATEUR : Elle rit — vraiment cette fois — et ne cache pas son sourire.
 CHOIX C — SOFIA À LA PLAGE [bg beach]
 ────────────────────────────────────────────────────────────────────────
 
-NARRATEUR : Sofia marche pieds nus dans le sable, paréo flottant.
+NARRATEUR : Ines marche pieds nus dans le sable, paréo flottant.
   Je l'ai rejointe sans vraiment réfléchir.
 SOFIA : Tu te lèves tôt.
 ALEX : Toi aussi.
@@ -1070,7 +1070,7 @@ SOFIA : Merci de me le rappeler.
 CHOIX D — CLARA SUR LE TOIT [bg room]
 ────────────────────────────────────────────────────────────────────────
 
-NARRATEUR : Je cherche Clara et la trouve sur le toit-terrasse
+NARRATEUR : Je cherche Lou et la trouve sur le toit-terrasse
   au-dessus des chambres. Elle a sursauté.
 CLARA : Quoi ?! T'es là depuis quand ?
 ALEX : Je viens d'arriver.
@@ -1097,8 +1097,8 @@ NARRATEUR : L'après-midi se passe sur la terrasse et autour de la source
 
 Hotspots disponibles (Jour 5) :
 
-  [💆 Sofia propose un massage "pro"]
-    SOFIA : Alex. Tu as l'air tendu.
+  [💆 Ines propose un massage "pro"]
+    SOFIA : Elio. Tu as l'air tendu.
     ALEX : C'est l'avant-dernier jour. Je suis nostalgique.
     SOFIA : Assieds-toi.
     SOFIA : Je suis formée en massage sportif. C'est professionnel.
@@ -1110,12 +1110,12 @@ Hotspots disponibles (Jour 5) :
       n'en fait mention.
     SOFIA : Mieux ?
     ALEX : Beaucoup.
-    → affinity_sofia +12
+    → affinity_ines +12
 
-  [🌴 Lina dans le hamac]
-    NARRATEUR : Lina se balance dans le hamac, les bras derrière la
+  [🌴 Zara dans le hamac]
+    NARRATEUR : Zara se balance dans le hamac, les bras derrière la
       tête.
-    LINA : Alex ! Viens, y'a de la place.
+    LINA : Elio ! Viens, y'a de la place.
     ALEX : Le hamac va pas craquer ?
     LINA : J'en sais rien. On peut tester.
     NARRATEUR : On teste. Le hamac tient. Mais c'est serré. On reste
@@ -1123,11 +1123,11 @@ Hotspots disponibles (Jour 5) :
     LINA : ...T'as mis de la crème aujourd'hui ?
     ALEX : Oui.
     LINA : Bien.
-    → affinity_lina +8
+    → affinity_zara +8
 
   [♨ Source chaude au fond du jardin]
     NARRATEUR : La source chaude est cachée derrière les bougainvilliers.
-    NARRATEUR : Je m'approche. Mina est là — les pieds dans l'eau,
+    NARRATEUR : Je m'approche. Vesna est là — les pieds dans l'eau,
       yeux fermés. Elle ouvre les yeux en entendant mes pas.
     MINA : Oh ! Je pensais que personne connaissait cet endroit.
     ALEX : Je l'ai trouvé par hasard. Je peux rester ?
@@ -1136,10 +1136,10 @@ Hotspots disponibles (Jour 5) :
       le ciel qui vire à l'orange.
     MINA : C'est mon endroit préféré ici.
     ALEX : Je comprends pourquoi.
-    → affinity_mina +12
+    → affinity_vesna +12
 
-  [🔭 Quelqu'un sur le toit ?] (si clara_available)
-    NARRATEUR : Je lève les yeux. Clara est sur le toit, appuyée contre
+  [🔭 Quelqu'un sur le toit ?] (si lou_available)
+    NARRATEUR : Je lève les yeux. Lou est sur le toit, appuyée contre
       la cheminée.
     ALEX : Encore sur le toit ?
     CLARA : Le toit, c'est calme.
@@ -1153,7 +1153,7 @@ Hotspots disponibles (Jour 5) :
     CLARA : C'est mon endroit secret.
     ALEX : Je dirai rien.
     CLARA : Je sais.
-    → affinity_clara +10
+    → affinity_lou +10
 
   [🌅 Observer le coucher de soleil]
     NARRATEUR : Le soleil touche l'horizon. Des oranges, des roses,
@@ -1168,22 +1168,22 @@ SOIR JOUR 5
 
   (score < 40) → Soirée mélancolique, tout le monde fatigué.
 
-  [SOIR LINA D5 — bg beach_soir] (si affinity_lina ≥ 60)
-    NARRATEUR : La plage de nuit. Lina est là, les pieds dans l'eau,
+  [SOIR LINA D5 — bg beach_soir] (si affinity_zara ≥ 60)
+    NARRATEUR : La plage de nuit. Zara est là, les pieds dans l'eau,
       les étoiles au-dessus.
     LINA : Je savais que tu viendrais.
     ALEX : C'est devenu un rituel.
     LINA : Les bons trucs deviennent des rituels.
     NARRATEUR : On s'assoit côte à côte. Les vagues arrivent aux
       chevilles.
-    LINA : Alex...
+    LINA : Elio...
     ALEX : Hm ?
     LINA : Tu me plais. Je voulais juste le dire clairement.
       Sans blague nulle.
-    ALEX : Tu me plais aussi, Lina. Beaucoup.
+    ALEX : Tu me plais aussi, Zara. Beaucoup.
     NARRATEUR : Elle rit et pose sa tête sur mon épaule.
 
-    [si affinity_lina ≥ 75 — SCÈNE INTIME]
+    [si affinity_zara ≥ 75 — SCÈNE INTIME]
     LINA : On va pas rester là toute la nuit, quand même ?
     ALEX : On peut faire autre chose ?
     LINA : On peut. Si tu veux.
@@ -1193,95 +1193,95 @@ SOIR JOUR 5
     LINA : ...Bien.
     [Scène en chambre — bg room]
     NARRATEUR : La nuit passe doucement, entre rires étouffés et
-      murmures. Lina est entière, spontanée, et terriblement sincère.
-    (seen_lina_h1 = True, affinity_lina +15)
+      murmures. Zara est entière, spontanée, et terriblement sincère.
+    (seen_zara_h1 = True, affinity_zara +15)
     NARRATEUR : Le matin arrive trop vite.
     LINA : ...T'as dormi ?
     ALEX : Un peu.
     LINA : Moi aussi. Un peu.
     NARRATEUR : Elle me sourit, les cheveux encore défaits.
 
-    [si 60 ≤ affinity_lina < 75]
+    [si 60 ≤ affinity_zara < 75]
     NARRATEUR : On reste sur la plage à regarder les étoiles jusqu'à
       minuit. Pas grand-chose ne se passe. Mais c'est exactement ce
       qu'il fallait.
 
-    (si 35 ≤ affinity_lina < 60) → marche, discussion, rien de plus.
-    (si affinity_lina < 35) → croisement dans le couloir, bonne nuit.
+    (si 35 ≤ affinity_zara < 60) → marche, discussion, rien de plus.
+    (si affinity_zara < 35) → croisement dans le couloir, bonne nuit.
 
-  [SOIR MINA D5 — bg spring] (si affinity_mina ≥ 60)
-    NARRATEUR : Mina m'avait invité via texte : "Source chaude, 22h ?"
+  [SOIR MINA D5 — bg spring] (si affinity_vesna ≥ 60)
+    NARRATEUR : Vesna m'avait invité via texte : "Source chaude, 22h ?"
     MINA : T'as trouvé ?
     ALEX : C'est toi qui m'as montré l'endroit.
     MINA : Je sais. Je voulais juste vérifier.
     NARRATEUR : On entre dans l'eau à tour de rôle. La chaleur monte.
-    MINA : Alex. Est-ce que tu... est-ce que t'as envie de rester,
+    MINA : Elio. Est-ce que tu... est-ce que t'as envie de rester,
       ce soir ?
     NARRATEUR : Sa voix est à peine plus qu'un murmure.
     ALEX : Si tu me le demandes.
     MINA : Je te le demande.
 
-    [si affinity_mina ≥ 75 — SCÈNE INTIME]
+    [si affinity_vesna ≥ 75 — SCÈNE INTIME]
     [Scène en chambre — bg room]
     NARRATEUR : La nuit passe entre le silence de la source et la
-      douceur de sa chambre. Mina est douce et sincère.
-    (seen_mina_h1 = True, affinity_mina +15)
+      douceur de sa chambre. Vesna est douce et sincère.
+    (seen_vesna_h1 = True, affinity_vesna +15)
     NARRATEUR : Le lendemain matin, elle pose une tasse de café sur
       ma table de chevet. Sans un mot. Juste un sourire.
     MINA : Le café est chaud.
     ALEX : Comme toujours.
     MINA : Oui.
 
-    [si 60 ≤ affinity_mina < 75]
+    [si 60 ≤ affinity_vesna < 75]
     NARRATEUR : On reste dans la source chaude à parler longtemps.
       Ses mains frôlent les miennes dans l'eau.
 
-    (si 35 ≤ affinity_mina < 60) → dessert ensemble sur la terrasse.
-    (si affinity_mina < 35) → bonne nuit.
+    (si 35 ≤ affinity_vesna < 60) → dessert ensemble sur la terrasse.
+    (si affinity_vesna < 35) → bonne nuit.
 
-  [SOIR SOFIA D5 — bg terrace] (si affinity_sofia ≥ 60)
-    NARRATEUR : Sofia m'attend sur la terrasse. Robe légère. Plus
+  [SOIR SOFIA D5 — bg terrace] (si affinity_ines ≥ 60)
+    NARRATEUR : Ines m'attend sur la terrasse. Robe légère. Plus
       détendue que je ne l'ai jamais vue.
     SOFIA : Je voulais parler. Vraiment parler.
     ALEX : Je t'écoute.
     SOFIA : Cette semaine... j'ai arrêté de compter les choses qui me
       manquaient. Depuis mon divorce, je gère seule. Et là, t'es
       arrivé, et j'ai arrêté de compter.
-    SOFIA : Alex. Je sais que tu pars dans deux jours.
+    SOFIA : Elio. Je sais que tu pars dans deux jours.
     ALEX : Je sais.
     SOFIA : Et je sais que t'as dix ans de moins que moi.
     ALEX : Je sais ça aussi.
     SOFIA : Alors pourquoi j'ai envie que tu restes ?
     ALEX : Parce que c'est réciproque.
 
-    [si affinity_sofia ≥ 80 — SCÈNE INTIME]
+    [si affinity_ines ≥ 80 — SCÈNE INTIME]
     NARRATEUR : Elle se lève, pose sa main sur ma joue.
-    SOFIA : Alex. Reste, ce soir.
+    SOFIA : Elio. Reste, ce soir.
     ALEX : Si tu veux de moi.
     SOFIA : Je te pose la question, donc oui.
     [Scène en chambre — bg room]
-    NARRATEUR : Sofia est précise dans tout ce qu'elle fait. Dans son
+    NARRATEUR : Ines est précise dans tout ce qu'elle fait. Dans son
       travail, ses mots, et cette nuit. Elle sait ce qu'elle veut.
       C'est plus profond que ce que j'imaginais.
-    (seen_sofia_h1 = True, affinity_sofia +15)
+    (seen_ines_h1 = True, affinity_ines +15)
     NARRATEUR : Le matin, elle est là, dos tourné, regardant la mer.
     SOFIA : Café ?
     ALEX : Toujours.
 
-    [si 60 ≤ affinity_sofia < 80]
+    [si 60 ≤ affinity_ines < 80]
     NARRATEUR : On reste sur la terrasse jusqu'à minuit. Sa main dans
       la mienne. Pas plus. Pas besoin.
 
-    (si 35 ≤ affinity_sofia < 60) → sourires, soirée tranquille.
-    (si affinity_sofia < 35) → bonne nuit.
+    (si 35 ≤ affinity_ines < 60) → sourires, soirée tranquille.
+    (si affinity_ines < 35) → bonne nuit.
 
-  [SOIR CLARA D5 — bg room] (si affinity_clara ≥ 50)
-    NARRATEUR : Clara frappe à ma porte à 21h. Elle est en pyjama
+  [SOIR CLARA D5 — bg room] (si affinity_lou ≥ 50)
+    NARRATEUR : Lou frappe à ma porte à 21h. Elle est en pyjama
       (ours imprimés) et a l'air de vivre la chose la plus difficile
       de sa vie.
     CLARA : J'ai... j'avais besoin d'un truc dans le couloir et t'étais
       là et...
-    ALEX : Clara. Tu peux juste dire que tu voulais passer.
+    ALEX : Lou. Tu peux juste dire que tu voulais passer.
     CLARA : Je voulais pas passer.
     ALEX : D'accord.
     CLARA : Je voulais juste... te voir. Un peu.
@@ -1290,7 +1290,7 @@ SOIR JOUR 5
     NARRATEUR : On s'assoit sur le lit à regarder une série nulle.
       Elle s'endort contre mon épaule à 22h30. Je ne bouge pas.
 
-    [si affinity_clara ≥ 65 — SCÈNE INTIME]
+    [si affinity_lou ≥ 65 — SCÈNE INTIME]
     NARRATEUR : Vers minuit, elle se réveille. Elle est à deux
       centimètres de mon visage.
     CLARA : ...Je dormais ?
@@ -1298,23 +1298,23 @@ SOIR JOUR 5
     CLARA : T'aurais pu me réveiller.
     ALEX : J'avais pas envie.
     NARRATEUR : Elle reste là. Ne s'éloigne pas.
-    CLARA : Alex. Je vais partir demain matin.
+    CLARA : Elio. Je vais partir demain matin.
     ALEX : Je sais.
     CLARA : Alors... je veux pas partir sans avoir...
     NARRATEUR : Elle ne finit pas la phrase. Elle n'en a pas besoin.
     [Scène en chambre]
-    NARRATEUR : La nuit est courte et douce. Clara murmure "c'était
+    NARRATEUR : La nuit est courte et douce. Lou murmure "c'était
       bien" juste avant de s'endormir. Je souris dans le noir.
-    (seen_clara_h1 = True, affinity_clara +15)
+    (seen_lou_h1 = True, affinity_lou +15)
 
-    (si 30 ≤ affinity_clara < 50) → bonne nuit maladroite.
-    (si affinity_clara < 30) → Clara n'est pas passée.
+    (si 30 ≤ affinity_lou < 50) → bonne nuit maladroite.
+    (si affinity_lou < 30) → Lou n'est pas passée.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 10. JOUR 6
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Note : Clara est partie ce matin (Jour 6). Son événement du soir est
+Note : Lou est partie ce matin (Jour 6). Son événement du soir est
 une scène narrative de son départ.
 
 NARRATEUR : Avant-veille du départ. Je me réveille avec une drôle de
@@ -1328,12 +1328,12 @@ NARRATEUR : Une journée tranquille. La dernière vraiment libre.
 
 ──── CHOIX DU MATIN ────────────────────────────────────────────────────
 
-  [A] "Proposer à Lina une session de volley revanche."
-       → affinity_lina +10
-  [B] "Apporter à Mina du chocolat acheté au village."
-       → affinity_mina +10
-  [C] "Aider Sofia à préparer l'arrivée des clients de demain."
-       → affinity_sofia +10
+  [A] "Proposer à Zara une session de volley revanche."
+       → affinity_zara +10
+  [B] "Apporter à Vesna du chocolat acheté au village."
+       → affinity_vesna +10
+  [C] "Aider Ines à préparer l'arrivée des clients de demain."
+       → affinity_ines +10
 
 ────────────────────────────────────────────────────────────────────────
 CHOIX A — LINA À LA PLAGE [bg beach]
@@ -1358,7 +1358,7 @@ CHOIX B — MINA EN CUISINE [bg kitchen]
 ────────────────────────────────────────────────────────────────────────
 
 NARRATEUR : Je reviens du village avec deux tablettes de chocolat noir
-  et une de chocolat blanc. Mina les regarde comme un trésor.
+  et une de chocolat blanc. Vesna les regarde comme un trésor.
 MINA : Oh ! C'est... c'était pas nécessaire.
 ALEX : Je sais. Mais tu avais mentionné vouloir tester une ganache et...
 MINA : T'as retenu ça ?
@@ -1374,13 +1374,13 @@ NARRATEUR : Il y a une chaleur dans la cuisine qui n'est pas seulement
 CHOIX C — SOFIA EN CHAMBRE [bg room]
 ────────────────────────────────────────────────────────────────────────
 
-NARRATEUR : On prépare les chambres ensemble. Sofia est plus détendue
+NARRATEUR : On prépare les chambres ensemble. Ines est plus détendue
   que d'habitude.
 SOFIA : Quand tu reviendras à la mer, tu penseras à cet endroit ?
 ALEX : Probablement. Pourquoi ?
 SOFIA : Je me demandais juste si on laissait une impression durable ou
   si on était juste un été parmi d'autres.
-ALEX : Sofia.
+ALEX : Ines.
 SOFIA : Hm.
 ALEX : Cet été ne ressemblera à aucun autre.
 SOFIA : ...
@@ -1399,33 +1399,33 @@ NARRATEUR : Dernière vraie après-midi libre. Piscine, soleil, et la
 
 Hotspots disponibles (Jour 6) :
 
-  [🧹 Aider Lina à nettoyer la piscine]
+  [🧹 Aider Zara à nettoyer la piscine]
     LINA : On refait le coup de tomber dans la piscine ?
     ALEX : C'est une invitation ?
     LINA : C'est statistiquement probable.
-    NARRATEUR : On nage une heure. Lina perd trois paris. Elle rit
+    NARRATEUR : On nage une heure. Zara perd trois paris. Elle rit
       à chaque fois.
-    → affinity_lina +8
+    → affinity_zara +8
 
-  [🪷 Sofia en bord de piscine]
-    NARRATEUR : Sofia est au bord, les pieds dans l'eau. Je m'assis
+  [🪷 Ines en bord de piscine]
+    NARRATEUR : Ines est au bord, les pieds dans l'eau. Je m'assis
       à côté d'elle.
     SOFIA : Il ne reste qu'un jour.
     ALEX : Je sais.
     SOFIA : Est-ce que tu... reviendras ?
     ALEX : Si tu me le demandes.
     SOFIA : Je te le demande.
-    → affinity_sofia +10
+    → affinity_ines +10
 
-  [🍹 Mina apporte des boissons]
-    NARRATEUR : Mina dépose le plateau et reste. Je lui propose de
+  [🍹 Vesna apporte des boissons]
+    NARRATEUR : Vesna dépose le plateau et reste. Je lui propose de
       s'asseoir.
     MINA : Je suis pas très piscine, d'habitude...
     ALEX : Tu veux essayer ?
     MINA : ...Peut-être juste les pieds.
     NARRATEUR : On reste assis, pieds dans l'eau, à ne rien dire de
       particulier. C'est exactement ce qu'il fallait.
-    → affinity_mina +10
+    → affinity_vesna +10
 
   [🏖 Serviette]
     NARRATEUR : Ma serviette. Je la retrouve là où je l'avais laissée.
@@ -1445,13 +1445,13 @@ SOIR JOUR 6
   (score < 40) → Soirée seul sur la terrasse. Regrets.
 
   [CLARA D6 — bg resort] (automatique si elle était présente)
-    NARRATEUR : Clara est partie ce matin.
+    NARRATEUR : Lou est partie ce matin.
     NARRATEUR : Elle m'a laissé un Post-it sur la porte :
       "Rentre bien. — C"
-    NARRATEUR : Rien d'autre. Mais "Rentre bien" de Clara, ça vaut
+    NARRATEUR : Rien d'autre. Mais "Rentre bien" de Lou, ça vaut
       beaucoup. Je le glisse dans ma poche.
 
-  [SOIR LINA D6 — bg bar] (si affinity_lina ≥ 60)
+  [SOIR LINA D6 — bg bar] (si affinity_zara ≥ 60)
     LINA : Dernier soir. Tu veux qu'on marque le coup ?
     ALEX : Comment ?
     LINA : J'ai accès au bar. Et des recettes que j'ai jamais essayées.
@@ -1459,61 +1459,61 @@ SOIR JOUR 6
     LINA : Un cocktail raté, ou quelque chose d'extraordinaire.
     NARRATEUR : On passe la soirée à tester des mélanges improbables.
       Certains sont immondes. D'autres sont géniaux.
-    NARRATEUR : Vers minuit, Lina pose la tête sur le comptoir,
+    NARRATEUR : Vers minuit, Zara pose la tête sur le comptoir,
       mi-fatiguée, mi-heureuse.
-    LINA : Alex. Je suis contente que t'aies pris ce job.
+    LINA : Elio. Je suis contente que t'aies pris ce job.
     ALEX : Moi aussi.
 
-    [si seen_lina_h1 — 2ème SCÈNE INTIME]
+    [si seen_zara_h1 — 2ème SCÈNE INTIME]
     LINA : ...Tu viens ?
     ALEX : Oui.
     [Scène en chambre]
     NARRATEUR : La deuxième nuit ensemble est encore mieux que la
       première. On connaît les silences de l'autre.
-    → affinity_lina +10
+    → affinity_zara +10
 
-    (si affinity_lina < 60) → échange bref, bonne nuit.
+    (si affinity_zara < 60) → échange bref, bonne nuit.
 
-  [SOIR MINA D6 — bg kitchen] (si affinity_mina ≥ 60)
+  [SOIR MINA D6 — bg kitchen] (si affinity_vesna ≥ 60)
     MINA : Dernier dîner. J'ai préparé quelque chose de spécial.
     ALEX : Pour qui ?
     MINA : Pour toi. Qui d'autre ?
     NARRATEUR : Le repas est extraordinaire. Six plats, chacun meilleur
       que le précédent. On finit avec un fondant au chocolat à se damner.
-    ALEX : Mina. Si tu ouvres un restaurant, je suis le premier client.
+    ALEX : Vesna. Si tu ouvres un restaurant, je suis le premier client.
     MINA : ...T'es sérieux ?
     ALEX : Je suis sérieux.
     NARRATEUR : Elle me regarde longtemps.
-    MINA : Alex. Je veux pas que tu partes.
+    MINA : Elio. Je veux pas que tu partes.
     ALEX : Moi non plus.
 
-    [si seen_mina_h1 — 2ème SCÈNE INTIME]
+    [si seen_vesna_h1 — 2ème SCÈNE INTIME]
     NARRATEUR : Elle prend ma main et me guide hors de la cuisine.
     [Scène en chambre]
     NARRATEUR : La dernière nuit est parfaite. Le chocolat, la chaleur,
       et elle.
-    → affinity_mina +10
+    → affinity_vesna +10
 
-    (si affinity_mina < 60) → dessert en silence.
+    (si affinity_vesna < 60) → dessert en silence.
 
-  [SOIR SOFIA D6 — bg terrace] (si affinity_sofia ≥ 60)
+  [SOIR SOFIA D6 — bg terrace] (si affinity_ines ≥ 60)
     SOFIA : Avant-dernière soirée.
     ALEX : Je sais pas si je suis prêt pour demain.
     SOFIA : Moi non plus.
     NARRATEUR : On reste longtemps sans parler. Le vent chaud porte
       le son des vagues.
-    SOFIA : Alex. Ce resort t'attendra si tu reviens.
+    SOFIA : Elio. Ce resort t'attendra si tu reviens.
     SOFIA : Et moi aussi.
 
-    [si seen_sofia_h1 — 2ème SCÈNE INTIME]
+    [si seen_ines_h1 — 2ème SCÈNE INTIME]
     NARRATEUR : Elle prend ma main et m'emmène à l'intérieur.
     [Scène en chambre]
     NARRATEUR : La dernière nuit est lente et mélancolique et parfaite.
       On sait tous les deux que c'est la fin de quelque chose et le
       début d'autre chose.
-    → affinity_sofia +10
+    → affinity_ines +10
 
-    (si affinity_sofia < 60) → bonne nuit polie.
+    (si affinity_ines < 60) → bonne nuit polie.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 11. JOUR 7 — DERNIER JOUR
@@ -1526,9 +1526,9 @@ NARRATEUR : Le resort accueille ses premiers vrais clients. Tout le monde
 
 ──── CHOIX DU MATIN ────────────────────────────────────────────────────
 
-  [A] "Trouver Lina avant la cohue." → affinity_lina +5
-  [B] "Aller voir Mina en cuisine une dernière fois." → affinity_mina +5
-  [C] "Frapper à la porte du bureau de Sofia." → affinity_sofia +5
+  [A] "Trouver Zara avant la cohue." → affinity_zara +5
+  [B] "Aller voir Vesna en cuisine une dernière fois." → affinity_vesna +5
+  [C] "Frapper à la porte du bureau de Ines." → affinity_ines +5
 
 ────────────────────────────────────────────────────────────────────────
 CHOIX A — AU REVOIR LINA
@@ -1540,7 +1540,7 @@ ALEX : Je suis triste de partir.
 LINA : Ha. Moi aussi je suis triste que tu partes.
 LINA : C'est quand même la preuve que c'était bien.
 ALEX : Ouais.
-LINA : ...Alex ?
+LINA : ...Elio ?
 ALEX : Hm.
 LINA : Si jamais tu repasses par là... tu viens me dire bonjour ?
 ALEX : C'est une promesse.
@@ -1556,23 +1556,23 @@ NARRATEUR : Elle me tend une boîte soigneusement emballée.
 MINA : Des sablés au citron. Pour la route.
 NARRATEUR : Je ne sais pas quoi dire. Je prends la boîte et la regarde
   dans les yeux.
-ALEX : Mina. C'était une semaine extraordinaire.
+ALEX : Vesna. C'était une semaine extraordinaire.
 MINA : Pour moi aussi.
 
 ────────────────────────────────────────────────────────────────────────
 CHOIX C — AU REVOIR SOFIA
 ────────────────────────────────────────────────────────────────────────
 
-SOFIA : Alex. Entre.
+SOFIA : Elio. Entre.
 NARRATEUR : Son bureau est rangé. La fenêtre donne sur la mer.
 SOFIA : Comment tu te sens ?
 ALEX : Nostalgique. Et je suis même pas encore parti.
 SOFIA : C'est bon signe. Ça veut dire que ça valait quelque chose.
-ALEX : Sofia...
+ALEX : Ines...
 SOFIA : Je sais.
 NARRATEUR : Elle se lève et me tend la main. Formelle, presque. Puis
   elle change d'avis et pose la main sur mon épaule.
-SOFIA : Merci d'avoir été là, Alex. Vraiment.
+SOFIA : Merci d'avoir été là, Elio. Vraiment.
 
 ────────────────────────────────────────────────────────────────────────
 APRÈS-MIDI JOUR 7 — MOMENT DÉCISIF [bg beach]
@@ -1596,7 +1596,7 @@ LINA : Je t'observais. C'est différent.
 ALEX : Dans quel sens ?
 LINA : Dans le sens où c'est mignon quand c'est moi qui le fais.
 NARRATEUR : On s'assoit dans le sable. La mer est calme.
-LINA : Alex. Je veux pas que tu partes sans qu'on... enfin.
+LINA : Elio. Je veux pas que tu partes sans qu'on... enfin.
 ALEX : Sans qu'on quoi ?
 LINA : Sans qu'on soit honnêtes.
 LINA : Cette semaine, c'était pas juste un job d'été. Pour moi.
@@ -1604,29 +1604,29 @@ ALEX : Pour moi non plus.
 NARRATEUR : Elle se tourne vers moi. Ses yeux sont sérieux pour la
   première fois depuis une semaine.
 LINA : Alors ?
-→ Bascule vers ending_lina_check
+→ Bascule vers ending_zara_check
 
 ────────────────────────────────────────────────────────────────────────
 SCÈNE FINALE MINA
 ────────────────────────────────────────────────────────────────────────
 
-NARRATEUR : Mina apparaît sur la plage, les chaussures à la main.
+NARRATEUR : Vesna apparaît sur la plage, les chaussures à la main.
 MINA : Je... je voulais te parler avant que tu partes.
 ALEX : Je t'écoute.
 MINA : Cette semaine... tu m'as fait me sentir moins seule. En cuisine,
   ici, partout.
 MINA : Et je sais que c'est bête de dire ça à quelqu'un qui part ce soir.
 ALEX : C'est pas bête du tout.
-MINA : Alex... est-ce que tu... tu reviendras ?
+MINA : Elio... est-ce que tu... tu reviendras ?
 NARRATEUR : Je la regarde. Elle est sincère, vulnérable, magnifique dans
   la lumière du soir.
-→ Bascule vers ending_mina_check
+→ Bascule vers ending_vesna_check
 
 ────────────────────────────────────────────────────────────────────────
 SCÈNE FINALE SOFIA
 ────────────────────────────────────────────────────────────────────────
 
-NARRATEUR : Sofia est déjà là, les pieds dans l'eau, le regard vers
+NARRATEUR : Ines est déjà là, les pieds dans l'eau, le regard vers
   l'horizon.
 SOFIA : J'avais besoin d'air.
 ALEX : Moi aussi.
@@ -1637,13 +1637,13 @@ SOFIA : Juste... du travail, des gens qui passent, et puis c'est tout.
 ALEX : Et là ?
 SOFIA : Et là, j'ai envie que tu restes.
 SOFIA : Ce qui est nouveau pour moi.
-→ Bascule vers ending_sofia_check
+→ Bascule vers ending_ines_check
 
 ────────────────────────────────────────────────────────────────────────
 SCÈNE FINALE CLARA
 ────────────────────────────────────────────────────────────────────────
 
-NARRATEUR : Clara est là, appuyée contre un rocher, l'air de rien.
+NARRATEUR : Lou est là, appuyée contre un rocher, l'air de rien.
 CLARA : ...T'as besoin de compagnie ou quoi ?
 ALEX : Un peu, oui.
 CLARA : Bien. Parce que moi aussi. Mais c'est pas pareil.
@@ -1652,17 +1652,17 @@ CLARA : C'est pas pareil parce que... moi je reste et toi tu pars.
   Alors c'est pas du tout pareil.
 NARRATEUR : Elle croise les bras. Tsundere jusqu'au bout. Mais ses
   joues sont roses.
-→ Bascule vers ending_clara_check
+→ Bascule vers ending_lou_check
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 12. FINS — TOUTES LES ROUTES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 SEUILS DE FINS
-  Lina  : Bad < 50 | Normal 50–79 | Good ≥ 80
-  Mina  : Bad < 50 | Normal 50–79 | Good ≥ 80
-  Sofia : Bad < 50 | Normal 50–79 | Good ≥ 80
-  Clara : Bad < 35 | Normal 35–59 | Good ≥ 60
+  Zara  : Bad < 50 | Normal 50–79 | Good ≥ 80
+  Vesna  : Bad < 50 | Normal 50–79 | Good ≥ 80
+  Ines : Bad < 50 | Normal 50–79 | Good ≥ 80
+  Lou : Bad < 35 | Normal 35–59 | Good ≥ 60
 
 ────────────────────────────────────────────────────────────────────────
 ROUTE LINA — BAD END : "Amis" [bg beach]
@@ -1675,8 +1675,8 @@ NARRATEUR : Je monte dans le taxi. On s'est bien entendus. C'était bien.
   Mais c'est resté là. Un bel été avec quelqu'un de bien. Je regarde le
   resort disparaître dans le rétroviseur.
 
-{FIN – Route Lina (Amis)}
-"Lina est restée dans ta mémoire comme un éclat de soleil – vif, chaud,
+{FIN – Route Zara (Amis)}
+"Zara est restée dans ta mémoire comme un éclat de soleil – vif, chaud,
 et déjà loin."
 
 ────────────────────────────────────────────────────────────────────────
@@ -1688,14 +1688,14 @@ ALEX : Ouais.
 LINA : C'était bien.
 ALEX : Très.
 NARRATEUR : On se regarde. Il y a quelque chose qu'on n'a pas dit.
-LINA : Alex. Est-ce que tu reviens ?
+LINA : Elio. Est-ce que tu reviens ?
 ALEX : Est-ce que tu veux que je revienne ?
 LINA : Je te pose la question, donc oui !
 NARRATEUR : Je ris. Elle rit. Je l'embrasse — rapidement, honnêtement
   — et je monte dans le taxi.
 
-{FIN – Route Lina (Promesse)}
-"Lina t'a envoyé un message deux heures après ton départ. Il disait
+{FIN – Route Zara (Promesse)}
+"Zara t'a envoyé un message deux heures après ton départ. Il disait
 juste : 'Alors ?'
 Tu as répondu : 'Je reviens dans trois semaines.'
 Elle a répondu un seul emoji. Le plus grand sourire disponible."
@@ -1710,18 +1710,18 @@ LINA : Dernier coucher de soleil aussi ?
 ALEX : On verra s'il est à l'heure.
 NARRATEUR : On reste dans l'eau jusqu'à ce que le soleil commence
   à descendre. Elle nage vers moi et s'arrête à quelques centimètres.
-LINA : Alex.
-ALEX : Lina.
+LINA : Elio.
+ALEX : Zara.
 LINA : Si tu reviens pas, je te retrouve.
 ALEX : C'est une menace ?
-LINA : Non. C'est une déclaration d'intention.
+LINA : Non. C'est une déloution d'intention.
 ALEX : Je reviens.
 LINA : Je sais.
 NARRATEUR : On s'embrasse dans l'eau jusqu'à ce que le taxi klaxonne.
   Le chauffeur doit attendre cinq minutes.
 
-{FIN – Route Lina (Good End)}
-"Lina a pris deux week-ends sur trois pour venir te voir à la ville
+{FIN – Route Zara (Good End)}
+"Zara a pris deux week-ends sur trois pour venir te voir à la ville
 cet automne.
 Elle a renversé deux cafés dans ton appartement. Tu as arrêté de compter.
 L'année suivante, vous êtes revenus à La Vague Dorée. Cette fois en
@@ -1731,14 +1731,14 @@ couple officiel."
 ROUTE MINA — BAD END : "Amis" [bg kitchen]
 ────────────────────────────────────────────────────────────────────────
 
-NARRATEUR : Matin du départ. Je passe dire au revoir à Mina.
+NARRATEUR : Matin du départ. Je passe dire au revoir à Vesna.
 MINA : Je... j'ai préparé des sablés pour le train.
 ALEX : Tu n'aurais pas dû.
 MINA : Si. C'est ma façon de dire... bonne route.
 NARRATEUR : Je prends les sablés. On se fait une bise maladroite. Il
   y avait quelque chose entre nous qu'on n'a pas su formuler à temps.
 
-{FIN – Route Mina (Amis)}
+{FIN – Route Vesna (Amis)}
 "Les sablés étaient parfaits. Tu les as mangés tous dans le train.
 Tu as pensé à elle à chaque bouchée."
 
@@ -1746,22 +1746,22 @@ Tu as pensé à elle à chaque bouchée."
 ROUTE MINA — NORMAL END : "Promesse" [bg kitchen]
 ────────────────────────────────────────────────────────────────────────
 
-NARRATEUR : Dernier matin. Mina m'attend avec un café et un sourire
+NARRATEUR : Dernier matin. Vesna m'attend avec un café et un sourire
   timide.
 MINA : Je voulais que ton dernier souvenir de cet endroit soit bon.
 ALEX : Tous mes souvenirs d'ici sont bons.
 MINA : Le café aide quand même.
 NARRATEUR : On boit côte à côte, en silence, regardant le jardin.
-MINA : Alex.
-ALEX : Mina.
+MINA : Elio.
+ALEX : Vesna.
 MINA : Je sais pas si on se reverra.
 ALEX : Moi si.
 MINA : ...Comment tu peux savoir ?
 ALEX : Parce que je veux que ça arrive.
 NARRATEUR : Elle hoche la tête, une fois, discrètement.
 
-{FIN – Route Mina (Promesse)}
-"Mina t'a envoyé une photo trois jours après ton départ. Une assiette
+{FIN – Route Vesna (Promesse)}
+"Vesna t'a envoyé une photo trois jours après ton départ. Une assiette
 de sablés : 'Test de la recette 47. Manque d'un avis.'
 Tu as pris le train le week-end suivant."
 
@@ -1769,7 +1769,7 @@ Tu as pris le train le week-end suivant."
 ROUTE MINA — GOOD END [bg kitchen]
 ────────────────────────────────────────────────────────────────────────
 
-NARRATEUR : Dernier matin. Mina a cuisiné un vrai petit-déjeuner pour
+NARRATEUR : Dernier matin. Vesna a cuisiné un vrai petit-déjeuner pour
   deux. Pas pour le resort. Pour nous.
 MINA : J'ai réfléchi à quelque chose.
 ALEX : Quoi ?
@@ -1777,20 +1777,20 @@ MINA : Mon restaurant. Celui que je voulais. Je crois que j'ai assez
   attendu.
 ALEX : Tu vas le faire ?
 MINA : Je sais pas encore comment. Mais... oui.
-ALEX : Mina.
+ALEX : Vesna.
 MINA : Quoi.
 ALEX : T'auras un client fidèle dès le premier jour.
 NARRATEUR : Elle pleure un peu. S'en excuse. Je lui dis que c'est pas
   nécessaire.
-MINA : Alex. Reste encore un peu ?
+MINA : Elio. Reste encore un peu ?
 ALEX : Mon train est à 18h.
 MINA : Il est 8h du matin.
 ALEX : Alors j'ai le temps.
 
-{FIN – Route Mina (Good End)}
-"Le restaurant de Mina a ouvert dix mois plus tard, dans une petite
+{FIN – Route Vesna (Good End)}
+"Le restaurant de Vesna a ouvert dix mois plus tard, dans une petite
 rue du centre.
-Le premier soir, la table du coin était réservée pour Alex.
+Le premier soir, la table du coin était réservée pour Elio.
 Il est arrivé avec des fleurs et un tablier (cadeau, au cas où elle
 aurait besoin d'aide).
 Elle a ri et l'a mis directement au travail."
@@ -1799,35 +1799,35 @@ Elle a ri et l'a mis directement au travail."
 ROUTE SOFIA — BAD END : "Professionnel" [bg resort]
 ────────────────────────────────────────────────────────────────────────
 
-NARRATEUR : Dernier jour. Sofia me serre la main fermement.
-SOFIA : Tu as bien travaillé, Alex. Si tu cherches un job l'été
+NARRATEUR : Dernier jour. Ines me serre la main fermement.
+SOFIA : Tu as bien travaillé, Elio. Si tu cherches un job l'été
   prochain...
 ALEX : Je reviendrai.
 SOFIA : Je t'en serai reconnaissante.
 NARRATEUR : C'est professionnel, chaleureux, et rien de plus.
 
-{FIN – Route Sofia (Professionnel)}
+{FIN – Route Ines (Professionnel)}
 "Tu es revenu l'été suivant comme employé.
-Sofia était contente de te voir. Professionnellement parlant.
+Ines était contente de te voir. Professionnellement parlant.
 Ça aussi, c'est une forme de fidélité."
 
 ────────────────────────────────────────────────────────────────────────
 ROUTE SOFIA — NORMAL END : "À bientôt" [bg terrace]
 ────────────────────────────────────────────────────────────────────────
 
-NARRATEUR : Dernier matin. Sofia sur la terrasse, café à la main.
+NARRATEUR : Dernier matin. Ines sur la terrasse, café à la main.
 SOFIA : Je me disais justement...
 ALEX : Quoi ?
 SOFIA : Que les étés qui comptent laissent une trace.
 SOFIA : Celui-ci en laissera une.
 ALEX : Pour moi aussi.
-NARRATEUR : Le taxi klaxonne. Sofia me pose la main sur le bras — une
+NARRATEUR : Le taxi klaxonne. Ines me pose la main sur le bras — une
   seconde, deux — et la retire.
-SOFIA : Bonne route, Alex.
-ALEX : À bientôt, Sofia.
+SOFIA : Bonne route, Elio.
+ALEX : À bientôt, Ines.
 
-{FIN – Route Sofia (À bientôt)}
-"Sofia t'a envoyé un e-mail quatre jours plus tard.
+{FIN – Route Ines (À bientôt)}
+"Ines t'a envoyé un e-mail quatre jours plus tard.
 Objet : 'Réservation'. Corps : 'La chambre 3 est libre le premier
 week-end de septembre.'
 Tu as répondu : 'Je prends.'"
@@ -1838,8 +1838,8 @@ ROUTE SOFIA — GOOD END [bg terrace]
 
 NARRATEUR : Le matin du dernier jour. On est tous les deux debout avant
   les autres. Café, terrasse, mer. On n'a pas besoin de beaucoup de mots.
-SOFIA : Alex.
-ALEX : Sofia.
+SOFIA : Elio.
+ALEX : Ines.
 SOFIA : Tu sais que j'ai peur de peu de choses.
 ALEX : Je sais.
 SOFIA : Toi, un peu.
@@ -1854,8 +1854,8 @@ NARRATEUR : Elle sourit — ce vrai sourire que j'ai mis quatre jours à
   obtenir. Elle m'embrasse — discrètement, avec élégance — et reste
   sur le seuil jusqu'à ce que le taxi disparaisse.
 
-{FIN – Route Sofia (Good End)}
-"Sofia n'est pas du genre à appeler tous les jours.
+{FIN – Route Ines (Good End)}
+"Ines n'est pas du genre à appeler tous les jours.
 Mais chaque vendredi soir, il y a un message. Court, précis, sincère.
 Et chaque troisième week-end du mois, il y a un trajet en train vers
 la côte. La chambre 3 t'attend toujours."
@@ -1864,11 +1864,11 @@ la côte. La chambre 3 t'attend toujours."
 ROUTE CLARA — BAD END : "Passés sans se croiser" [bg resort]
 ────────────────────────────────────────────────────────────────────────
 
-NARRATEUR : Clara est repartie le matin du Jour 6. On s'est dit au
+NARRATEUR : Lou est repartie le matin du Jour 6. On s'est dit au
   revoir poliment. Elle avait l'air de vouloir dire autre chose.
   Moi aussi. Mais aucun de nous deux n'a eu le courage.
 
-{FIN – Route Clara (Passés sans se croiser)}
+{FIN – Route Lou (Passés sans se croiser)}
 "Tu as trouvé son profil par hasard sur les réseaux sociaux, six mois
 plus tard. Tu as hésité à suivre. Tu as suivi.
 Elle t'a suivi en retour deux heures après."
@@ -1877,7 +1877,7 @@ Elle t'a suivi en retour deux heures après."
 ROUTE CLARA — NORMAL END : "Tsundere jusqu'au bout" [bg resort]
 ────────────────────────────────────────────────────────────────────────
 
-NARRATEUR : Clara part le Jour 6. Je la rejoins dans l'entrée.
+NARRATEUR : Lou part le Jour 6. Je la rejoins dans l'entrée.
 CLARA : T'as pas à venir me dire au revoir.
 ALEX : Je sais. Je viens quand même.
 CLARA : ...T'es chiant.
@@ -1886,13 +1886,13 @@ NARRATEUR : Un silence. Elle regarde ses pieds.
 CLARA : ...C'était bien, cette semaine. Même si t'es là.
 ALEX : Je prends ça comme un compliment.
 CLARA : T'as bien fait.
-NARRATEUR : La voiture de Sofia arrive. Clara monte. Se retourne.
-CLARA : Alex.
-ALEX : Clara.
+NARRATEUR : La voiture de Ines arrive. Lou monte. Se retourne.
+CLARA : Elio.
+ALEX : Lou.
 CLARA : ...Rien. Bonne journée.
 
-{FIN – Route Clara (Tsundere jusqu'au bout)}
-"Clara t'a envoyé un mème trois jours plus tard sans aucun contexte.
+{FIN – Route Lou (Tsundere jusqu'au bout)}
+"Lou t'a envoyé un mème trois jours plus tard sans aucun contexte.
 Tu as répondu avec un mème encore meilleur.
 C'est comme ça que ça a commencé."
 
@@ -1900,7 +1900,7 @@ C'est comme ça que ça a commencé."
 ROUTE CLARA — GOOD END [bg resort]
 ────────────────────────────────────────────────────────────────────────
 
-NARRATEUR : Clara part à l'aube. Je l'entends bouger dans le couloir
+NARRATEUR : Lou part à l'aube. Je l'entends bouger dans le couloir
   et me lève.
 CLARA : Je voulais pas te réveiller.
 ALEX : Je dormais pas.
@@ -1917,11 +1917,11 @@ NARRATEUR : Elle rit dans mon épaule. Ses yeux sont brillants mais elle
 CLARA : Quand tu repasses par là...
 ALEX : Je te préviens.
 CLARA : Ouais. Fais ça.
-NARRATEUR : Le taxi de Sofia l'emmène à 6h15. Je reste sur le seuil
+NARRATEUR : Le taxi de Ines l'emmène à 6h15. Je reste sur le seuil
   jusqu'à ce que les feux arrière disparaissent.
 
-{FIN – Route Clara (Good End)}
-"Clara t'a envoyé un message à 7h du matin depuis la voiture.
+{FIN – Route Lou (Good End)}
+"Lou t'a envoyé un message à 7h du matin depuis la voiture.
 Un simple : 'Ouais donc c'était bien.'
 Tu as répondu : 'Je sais.'
 Et vous avez parlé jusqu'à ce qu'elle arrive chez elle."
@@ -1956,15 +1956,15 @@ Scène H (affinity ≥ 75)                 | +15 (seen_X_h1 = True)
 MAX THÉORIQUE LINA/MINA/SOFIA (7 jours) : ~120+ (plafonné à 100)
 MAX THÉORIQUE CLARA (jours 4-5 + P&C)  : ~80+
 
-CHEMIN MAXIMAL POUR GOOD END (ex. Lina) :
-  J1 matin Lina (+10) + P&C plage Lina (+8) = 18
-  J2 matin Lina (+10) + P&C piscine Lina (+10) = 38
-  J3 P&C cuisine Lina (+6) = 44
-  J4 matin Lina (+10) + P&C plage Lina (+10) = 64
-  J5 matin Lina (+10) + P&C terrasse Lina (+8) = 82
+CHEMIN MAXIMAL POUR GOOD END (ex. Zara) :
+  J1 matin Zara (+10) + P&C plage Zara (+8) = 18
+  J2 matin Zara (+10) + P&C piscine Zara (+10) = 38
+  J3 P&C cuisine Zara (+6) = 44
+  J4 matin Zara (+10) + P&C plage Zara (+10) = 64
+  J5 matin Zara (+10) + P&C terrasse Zara (+8) = 82
   Scène H J5 (+15) = 97
-  J6 matin Lina (+10) + P&C piscine Lina (+8) = 115 [capped 100]
-  J7 matin Lina (+5) = 100 max
+  J6 matin Zara (+10) + P&C piscine Zara (+8) = 115 [capped 100]
+  J7 matin Zara (+5) = 100 max
   → Good End ✓
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -2000,20 +2000,20 @@ CLARA (bleu)   : tsundere, blush, shy, angry
 17. VARIABLES GLOBALES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-affinity_lina    : int 0-100 (défaut 0)
-affinity_mina    : int 0-100 (défaut 0)
-affinity_sofia   : int 0-100 (défaut 0)
-affinity_clara   : int 0-100 (défaut 0)
+affinity_zara    : int 0-100 (défaut 0)
+affinity_vesna    : int 0-100 (défaut 0)
+affinity_ines   : int 0-100 (défaut 0)
+affinity_lou   : int 0-100 (défaut 0)
 current_day      : int 1-7 (défaut 1)
-clara_available  : bool (True à partir J4)
-seen_lina_h1     : bool (scène H Lina déverrouillée)
-seen_mina_h1     : bool (scène H Mina déverrouillée)
-seen_sofia_h1    : bool (scène H Sofia déverrouillée)
-seen_clara_h1    : bool (scène H Clara déverrouillée)
+lou_available  : bool (True à partir J4)
+seen_zara_h1     : bool (scène H Zara déverrouillée)
+seen_vesna_h1     : bool (scène H Vesna déverrouillée)
+seen_ines_h1    : bool (scène H Ines déverrouillée)
+seen_lou_h1    : bool (scène H Lou déverrouillée)
 inventory        : set() [ball, sunscreen, seashell, towel, herbs]
 
 Fonction top_girl() → retourne (nom, score) de la fille avec le plus
-haut score. Clara incluse uniquement si clara_available = True.
+haut score. Lou incluse uniquement si lou_available = True.
 
 ════════════════════════════════════════════════════════════════════════
                         FIN DU DOCUMENT

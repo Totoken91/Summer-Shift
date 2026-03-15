@@ -21,13 +21,13 @@
 # Les dialogues se mettent APRÈS le call screen, pas dedans.
 # Exemple :
 #
-#   call screen art_placeholder("Lina sur la plage\n• Bikini rouge\n• Coucher de soleil")
+#   call screen art_placeholder("Zara sur la plage\n• Bikini rouge\n• Coucher de soleil")
 #   # ↑ L'image placeholder s'affiche. Le joueur clique pour passer.
 #
-#   show lina happy at right          # ← le sprite apparaît sur le BG du jeu
-#   lina "Tu es enfin là !"           # ← dialogue normal après le placeholder
-#   alex "Je t'ai cherchée partout."
-#   hide lina happy
+#   show zara happy at right          # ← le sprite apparaît sur le BG du jeu
+#   zara "Tu es enfin là !"           # ← dialogue normal après le placeholder
+#   elio "Je t'ai cherchée partout."
+#   hide zara happy
 #   jump next_label
 #
 # ──────────────────────────────────────────────────────
@@ -36,9 +36,9 @@
 # Supprimer la ligne `call screen art_placeholder("...")`
 # et la remplacer par l'affichage du vrai CG :
 #
-#   show cg_lina_beach with dissolve   # ← vrai CG plein écran
+#   show cg_zara_beach with dissolve   # ← vrai CG plein écran
 #   pause                              # ← le joueur clique pour passer
-#   hide cg_lina_beach
+#   hide cg_zara_beach
 #
 # ──────────────────────────────────────────────────────
 # IMPORTANT – règle des crochets dans les strings Ren'Py :
@@ -49,7 +49,7 @@
 #
 # Exemples :
 #   n "[[FULL ART ICI]"    → affiche : [FULL ART ICI]
-#   n "[lina_name]"        → affiche la valeur de la variable lina_name
+#   n "[zara_name]"        → affiche la valeur de la variable zara_name
 # ════════════════════════════════════════════════════════
 
 screen art_placeholder(description=""):

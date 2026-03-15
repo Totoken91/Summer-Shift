@@ -42,11 +42,11 @@ screen beach_pc(day, visited):
         padding (12, 10)
         vbox:
             spacing 4
-            text "❤ Lina  [affinity_lina]"  color "#FF9966" size 22
-            text "❤ Mina  [affinity_mina]"  color "#FF99CC" size 22
-            text "❤ Sofia [affinity_sofia]" color "#CC99FF" size 22
-            if clara_available:
-                text "❤ Clara [affinity_clara]" color "#99CCFF" size 22
+            text "❤ Zara  [affinity_zara]"  color "#FF9966" size 22
+            text "❤ Vesna  [affinity_vesna]"  color "#FF99CC" size 22
+            text "❤ Ines [affinity_ines]" color "#CC99FF" size 22
+            if lou_available:
+                text "❤ Lou [affinity_lou]" color "#99CCFF" size 22
 
     # Titre lieu
     text "🏖 PLAGE" xalign 0.5 ypos 30 size 36 color "#fff" outlines [(2,"#0005",0,0)]
@@ -56,10 +56,10 @@ screen beach_pc(day, visited):
         xpos 80 ypos 200
         spacing 16
 
-        if "lina" not in visited:
-            textbutton "💃 Parler à Lina":
+        if "zara" not in visited:
+            textbutton "💃 Parler à Zara":
                 style "hotspot_button"
-                action Return("lina")
+                action Return("zara")
         if "ball" not in visited:
             textbutton "🏐 Ballon de volley":
                 style "hotspot_button"
@@ -76,10 +76,10 @@ screen beach_pc(day, visited):
             textbutton "🐚 Coquillage bizarre":
                 style "hotspot_button"
                 action Return("seashell")
-        if "clara_spy" not in visited and clara_available and day == 4:
+        if "lou_spy" not in visited and lou_available and day == 4:
             textbutton "👀 Quelqu'un derrière le parasol ?":
                 style "hotspot_button"
-                action Return("clara_spy")
+                action Return("lou_spy")
 
     # Bouton sortie
     textbutton "➜ Terminer l'après-midi":
@@ -103,31 +103,31 @@ label afternoon_beach(day):
 
 # ── Événements plage ─────────────────────────────────────
 
-label pc_beach_lina_d1:
-    show lina happy at right
-    lina "Alex ! T'as mis de la crème ?"
-    alex "Euh, pas encore."
-    lina "Mon Dieu. Attends."
+label pc_beach_zara_d1:
+    show zara happy at right
+    zara "Elio ! T'as mis de la crème ?"
+    elio "Euh, pas encore."
+    zara "Mon Dieu. Attends."
     n "Elle attrape un tube de crème et commence à l'appliquer sur mes épaules avec beaucoup d'enthousiasme et peu de précision."
     n "Une bonne partie atterrit sur son débardeur."
-    lina "Ha. Voilà."
-    alex "Tu en as mis autant sur toi que sur moi."
-    lina "C'est de la protection bi-directionnelle."
-    $ affinity_lina += 8
-    hide lina happy
+    zara "Ha. Voilà."
+    elio "Tu en as mis autant sur toi que sur moi."
+    zara "C'est de la protection bi-directionnelle."
+    $ affinity_zara += 8
+    hide zara happy
     return
 
-label pc_beach_lina_d4:
-    show lina swimsuit at right
-    lina "Rematch de volley ?"
-    alex "Toujours."
-    n "La partie est serrée. Lina plonge, ripe dans le sable, se relève en riant."
+label pc_beach_zara_d4:
+    show zara swimsuit at right
+    zara "Rematch de volley ?"
+    elio "Toujours."
+    n "La partie est serrée. Zara plonge, ripe dans le sable, se relève en riant."
     n "Son débardeur est couvert de sable. Elle s'en fiche."
-    lina "Ton service est meilleur qu'avant."
-    alex "J'apprends vite."
-    lina "Ou je t'inspire."
-    $ affinity_lina += 10
-    hide lina swimsuit
+    zara "Ton service est meilleur qu'avant."
+    elio "J'apprends vite."
+    zara "Ou je t'inspire."
+    $ affinity_zara += 10
+    hide zara swimsuit
     return
 
 label pc_beach_ball_d1:
@@ -138,19 +138,19 @@ label pc_beach_ball_d1:
     return
 
 label pc_beach_ball_d4:
-    show clara tsundere at left
-    n "Je ramasse le ballon. Clara est dans le coin, bras croisés."
-    alex "Tu joues ?"
-    clara "Je joue pas au volley."
-    alex "J'ai pas dit volley."
-    clara "..."
-    clara "...Tu as raison. T'as dit joues."
+    show lou tsundere at left
+    n "Je ramasse le ballon. Lou est dans le coin, bras croisés."
+    elio "Tu joues ?"
+    lou "Je joue pas au volley."
+    elio "J'ai pas dit volley."
+    lou "..."
+    lou "...Tu as raison. T'as dit joues."
     n "Elle attrape le ballon que je lui lance et le retourne sèchement."
     n "Très sèchement. J'ai à peine le temps de le réceptionner."
-    clara "T'es nul."
-    alex "Mais je m'améliore."
-    $ affinity_clara += 8
-    hide clara tsundere
+    lou "T'es nul."
+    elio "Mais je m'améliore."
+    $ affinity_lou += 8
+    hide lou tsundere
     return
 
 label pc_beach_sunscreen_d1:
@@ -161,15 +161,15 @@ label pc_beach_sunscreen_d1:
     return
 
 label pc_beach_sunscreen_d4:
-    show mina shy at right
-    n "Mina est assise à l'ombre, livre à la main, visiblement peu habituée à être sur la plage."
-    mina "Oh ! Alex. Tu... tu veux la chaise ?"
-    alex "Non, je voulais juste te proposer de la crème. T'as l'air de l'avoir oubliée."
-    mina "Je... merci. C'est gentil."
+    show vesna shy at right
+    n "Vesna est assise à l'ombre, livre à la main, visiblement peu habituée à être sur la plage."
+    vesna "Oh ! Elio. Tu... tu veux la chaise ?"
+    elio "Non, je voulais juste te proposer de la crème. T'as l'air de l'avoir oubliée."
+    vesna "Je... merci. C'est gentil."
     n "Elle me tend son épaule avec une timidité absolue."
     n "Ma main tremble un peu aussi. Je ne vais pas mentir."
-    $ affinity_mina += 8
-    hide mina shy
+    $ affinity_vesna += 8
+    hide vesna shy
     return
 
 label pc_beach_waves_d1:
@@ -179,18 +179,18 @@ label pc_beach_waves_d1:
     return
 
 label pc_beach_waves_d4:
-    show sofia swimsuit at right
-    n "Sofia entre dans l'eau à côté de moi. Elle n'a pas mis son paréo."
+    show ines swimsuit at right
+    n "Ines entre dans l'eau à côté de moi. Elle n'a pas mis son paréo."
     n "Maillot une pièce bordeaux. Elle est magnifique et elle le sait sûrement, mais se comporte comme si ça n'avait aucune importance."
-    sofia "L'eau est bonne aujourd'hui."
-    alex "Très."
-    sofia "Tu nages ?"
-    alex "Je peux essayer."
-    sofia "Essaie pas. Nage."
+    ines "L'eau est bonne aujourd'hui."
+    elio "Très."
+    ines "Tu nages ?"
+    elio "Je peux essayer."
+    ines "Essaie pas. Nage."
     n "On nage jusqu'au petit ponton et on revient en silence."
     n "Un silence éloquent."
-    $ affinity_sofia += 8
-    hide sofia swimsuit
+    $ affinity_ines += 8
+    hide ines swimsuit
     return
 
 label pc_beach_seashell_d2:
@@ -208,22 +208,22 @@ label pc_beach_seashell_d4:
         $ inventory.add("seashell")
     return
 
-label pc_beach_clara_spy_d4:
-    show clara blush at right
+label pc_beach_lou_spy_d4:
+    show lou blush at right
     n "Un bruit derrière le grand parasol rayé. Je m'approche discrètement."
-    n "Clara est là, téléphone à la main — mais l'objectif était clairement vers moi il y a deux secondes."
-    alex "...Tu prenais une photo ?"
-    clara "NON."
-    alex "De quoi ?"
-    clara "DE RIEN. De la mer."
-    alex "La mer est derrière moi ?"
-    clara "..."
-    clara "Il y avait un oiseau."
-    alex "Bien sûr."
+    n "Lou est là, téléphone à la main — mais l'objectif était clairement vers moi il y a deux secondes."
+    elio "...Tu prenais une photo ?"
+    lou "NON."
+    elio "De quoi ?"
+    lou "DE RIEN. De la mer."
+    elio "La mer est derrière moi ?"
+    lou "..."
+    lou "Il y avait un oiseau."
+    elio "Bien sûr."
     n "Elle est cramoisie. Je ne dis plus rien."
     n "Mais je souris."
-    $ affinity_clara += 12
-    hide clara blush
+    $ affinity_lou += 12
+    hide lou blush
     return
 
 # ════════════════════════════════════════════════════════
@@ -241,9 +241,9 @@ screen pool_pc(day, visited):
         padding (12, 10)
         vbox:
             spacing 4
-            text "❤ Lina  [affinity_lina]"  color "#FF9966" size 22
-            text "❤ Mina  [affinity_mina]"  color "#FF99CC" size 22
-            text "❤ Sofia [affinity_sofia]" color "#CC99FF" size 22
+            text "❤ Zara  [affinity_zara]"  color "#FF9966" size 22
+            text "❤ Vesna  [affinity_vesna]"  color "#FF99CC" size 22
+            text "❤ Ines [affinity_ines]" color "#CC99FF" size 22
 
     text "🏊 PISCINE" xalign 0.5 ypos 30 size 36 color "#fff" outlines [(2,"#0005",0,0)]
 
@@ -251,18 +251,18 @@ screen pool_pc(day, visited):
         xpos 80 ypos 200
         spacing 16
 
-        if "lina_pool" not in visited:
-            textbutton "🧹 Aider Lina à nettoyer la piscine":
+        if "zara_pool" not in visited:
+            textbutton "🧹 Aider Zara à nettoyer la piscine":
                 style "hotspot_button"
-                action Return("lina_pool")
-        if "sofia_pool" not in visited:
-            textbutton "🪷 Sofia qui lit en bord de piscine":
+                action Return("zara_pool")
+        if "ines_pool" not in visited:
+            textbutton "🪷 Ines qui lit en bord de piscine":
                 style "hotspot_button"
-                action Return("sofia_pool")
-        if "mina_pool" not in visited:
-            textbutton "🍹 Mina apporte des boissons":
+                action Return("ines_pool")
+        if "vesna_pool" not in visited:
+            textbutton "🍹 Vesna apporte des boissons":
                 style "hotspot_button"
-                action Return("mina_pool")
+                action Return("vesna_pool")
         if "towel" not in visited:
             textbutton "🏖 Serviette oubliée":
                 style "hotspot_button"
@@ -293,80 +293,80 @@ label afternoon_pool(day):
 
 # ── Événements piscine ───────────────────────────────────
 
-label pc_pool_lina_pool_d2:
-    show lina laugh at right
-    lina "Alex ! T'arrives juste à temps."
-    alex "Pour quoi ?"
-    lina "J'ai besoin que quelqu'un tienne ça pendant que je—"
+label pc_pool_zara_pool_d2:
+    show zara laugh at right
+    zara "Elio ! T'arrives juste à temps."
+    elio "Pour quoi ?"
+    zara "J'ai besoin que quelqu'un tienne ça pendant que je—"
     n "Elle me tend un filet à long manche et commence à s'avancer dangereusement vers le bord."
     n "Prévisiblement, elle glisse."
     n "Imprévisiblement, elle m'attrape au vol et on tombe tous les deux."
-    lina "{i}[[sous l'eau]{/i} PARDON !"
+    zara "{i}[[sous l'eau]{/i} PARDON !"
     n "L'eau est froide. On ressort en toussant."
-    lina "...Je crois que la piscine est propre maintenant. L'eau a bougé."
-    $ affinity_lina += 10
-    hide lina laugh
+    zara "...Je crois que la piscine est propre maintenant. L'eau a bougé."
+    $ affinity_zara += 10
+    hide zara laugh
     return
 
-label pc_pool_lina_pool_d6:
-    show lina swimsuit at right
-    lina "On refait le coup de tomber dans la piscine ?"
-    alex "C'est une invitation ?"
-    lina "C'est statistiquement probable."
-    n "On nage une heure. Lina perd trois paris. Elle rit à chaque fois."
-    $ affinity_lina += 8
-    hide lina swimsuit
+label pc_pool_zara_pool_d6:
+    show zara swimsuit at right
+    zara "On refait le coup de tomber dans la piscine ?"
+    elio "C'est une invitation ?"
+    zara "C'est statistiquement probable."
+    n "On nage une heure. Zara perd trois paris. Elle rit à chaque fois."
+    $ affinity_zara += 8
+    hide zara swimsuit
     return
 
-label pc_pool_sofia_pool_d2:
-    show sofia confident at right
-    n "Sofia est allongée sur un transat, livre ouvert sur la poitrine, lunettes de soleil."
+label pc_pool_ines_pool_d2:
+    show ines confident at right
+    n "Ines est allongée sur un transat, livre ouvert sur la poitrine, lunettes de soleil."
     n "Elle entend mes pas sur le carrelage."
-    sofia "Tu nages ?"
-    alex "Je pensais, oui."
-    sofia "Alors nage. Arrête de te justifier."
+    ines "Tu nages ?"
+    elio "Je pensais, oui."
+    ines "Alors nage. Arrête de te justifier."
     n "Je plonge. Quand je refais surface, elle a posé son livre et me regarde."
-    sofia "Pas mal."
-    $ affinity_sofia += 8
-    hide sofia confident
+    ines "Pas mal."
+    $ affinity_ines += 8
+    hide ines confident
     return
 
-label pc_pool_sofia_pool_d6:
-    show sofia swimsuit at right
-    n "Sofia est au bord, les pieds dans l'eau."
+label pc_pool_ines_pool_d6:
+    show ines swimsuit at right
+    n "Ines est au bord, les pieds dans l'eau."
     n "Je m'assis à côté d'elle."
-    sofia "Il ne reste qu'un jour."
-    alex "Je sais."
-    sofia "Est-ce que tu... reviendras ?"
-    alex "Si tu me le demandes."
-    sofia "Je te le demande."
-    $ affinity_sofia += 10
-    hide sofia swimsuit
+    ines "Il ne reste qu'un jour."
+    elio "Je sais."
+    ines "Est-ce que tu... reviendras ?"
+    elio "Si tu me le demandes."
+    ines "Je te le demande."
+    $ affinity_ines += 10
+    hide ines swimsuit
     return
 
-label pc_pool_mina_pool_d2:
-    show mina happy at right
-    n "Mina arrive avec un plateau de limonades maison et des petits gâteaux."
-    mina "Je... je pensais que vous auriez soif avec la chaleur..."
-    alex "Tu penses à tout."
-    mina "Ou à peu, selon comment on voit les choses."
+label pc_pool_vesna_pool_d2:
+    show vesna happy at right
+    n "Vesna arrive avec un plateau de limonades maison et des petits gâteaux."
+    vesna "Je... je pensais que vous auriez soif avec la chaleur..."
+    elio "Tu penses à tout."
+    vesna "Ou à peu, selon comment on voit les choses."
     n "On s'assoit au bord de la piscine et on boit les limonades ensemble."
     n "C'est parfait. Absolument parfait."
-    $ affinity_mina += 8
-    hide mina happy
+    $ affinity_vesna += 8
+    hide vesna happy
     return
 
-label pc_pool_mina_pool_d6:
-    show mina blush at right
-    n "Mina dépose le plateau et reste."
+label pc_pool_vesna_pool_d6:
+    show vesna blush at right
+    n "Vesna dépose le plateau et reste."
     n "Je lui propose de s'asseoir."
-    mina "Je suis pas très piscine, d'habitude..."
-    alex "Tu veux essayer ?"
-    mina "...Peut-être juste les pieds."
+    vesna "Je suis pas très piscine, d'habitude..."
+    elio "Tu veux essayer ?"
+    vesna "...Peut-être juste les pieds."
     n "On reste assis, pieds dans l'eau, à ne rien dire de particulier."
     n "C'est exactement ce qu'il fallait."
-    $ affinity_mina += 10
-    hide mina blush
+    $ affinity_vesna += 10
+    hide vesna blush
     return
 
 label pc_pool_towel_d2:
@@ -410,9 +410,9 @@ screen kitchen_pc(day, visited):
         padding (12, 10)
         vbox:
             spacing 4
-            text "❤ Lina  [affinity_lina]"  color "#FF9966" size 22
-            text "❤ Mina  [affinity_mina]"  color "#FF99CC" size 22
-            text "❤ Sofia [affinity_sofia]" color "#CC99FF" size 22
+            text "❤ Zara  [affinity_zara]"  color "#FF9966" size 22
+            text "❤ Vesna  [affinity_vesna]"  color "#FF99CC" size 22
+            text "❤ Ines [affinity_ines]" color "#CC99FF" size 22
 
     text "🍳 CUISINE" xalign 0.5 ypos 30 size 36 color "#fff" outlines [(2,"#0005",0,0)]
 
@@ -420,18 +420,18 @@ screen kitchen_pc(day, visited):
         xpos 80 ypos 200
         spacing 16
 
-        if "mina_cook" not in visited:
-            textbutton "🍫 Aider Mina avec sa recette":
+        if "vesna_cook" not in visited:
+            textbutton "🍫 Aider Vesna avec sa recette":
                 style "hotspot_button"
-                action Return("mina_cook")
-        if "lina_snack" not in visited:
-            textbutton "🥐 Lina qui grignote en cachette":
+                action Return("vesna_cook")
+        if "zara_snack" not in visited:
+            textbutton "🥐 Zara qui grignote en cachette":
                 style "hotspot_button"
-                action Return("lina_snack")
-        if "sofia_taste" not in visited:
-            textbutton "🍷 Sofia qui goûte les vins":
+                action Return("zara_snack")
+        if "ines_taste" not in visited:
+            textbutton "🍷 Ines qui goûte les vins":
                 style "hotspot_button"
-                action Return("sofia_taste")
+                action Return("ines_taste")
         if "herbs" not in visited:
             textbutton "🌿 Herbes aromatiques":
                 style "hotspot_button"
@@ -462,50 +462,50 @@ label afternoon_kitchen(day):
 
 # ── Événements cuisine ───────────────────────────────────
 
-label pc_kitchen_mina_cook_d3:
-    show mina happy at right
-    mina "Oh ! Tu tombes bien."
-    mina "J'ai besoin d'un avis honnête sur ce glaçage au chocolat."
+label pc_kitchen_vesna_cook_d3:
+    show vesna happy at right
+    vesna "Oh ! Tu tombes bien."
+    vesna "J'ai besoin d'un avis honnête sur ce glaçage au chocolat."
     n "Elle trempe une cuillère dans le bol et me la tend."
     n "Le glaçage est riche, légèrement amer, absolument parfait."
-    alex "C'est incroyable. Vraiment."
-    mina "C'est trop sucré ?"
-    alex "C'est parfait. Exactement comme il faut."
+    elio "C'est incroyable. Vraiment."
+    vesna "C'est trop sucré ?"
+    elio "C'est parfait. Exactement comme il faut."
     n "Elle rougit. Son bonheur est sincère et touchant."
-    mina "Si tu... si tu veux, tu peux rester goûter le résultat final ce soir ?"
-    alex "Avec plaisir."
-    $ affinity_mina += 10
-    hide mina happy
+    vesna "Si tu... si tu veux, tu peux rester goûter le résultat final ce soir ?"
+    elio "Avec plaisir."
+    $ affinity_vesna += 10
+    hide vesna happy
     return
 
-label pc_kitchen_lina_snack_d3:
-    show lina laugh at right
-    n "Lina est planquée derrière le réfrigérateur ouvert, en train de grignoter un croissant."
+label pc_kitchen_zara_snack_d3:
+    show zara laugh at right
+    n "Zara est planquée derrière le réfrigérateur ouvert, en train de grignoter un croissant."
     n "Elle sursaute en m'entendant."
-    lina "Je... je vérifiais les stocks !"
-    alex "En mangeant le stock ?"
-    lina "C'est une méthode de vérification empirique."
-    alex "Je comprends pas."
-    lina "Parfait. Viens, j'en ai un autre."
+    zara "Je... je vérifiais les stocks !"
+    elio "En mangeant le stock ?"
+    zara "C'est une méthode de vérification empirique."
+    elio "Je comprends pas."
+    zara "Parfait. Viens, j'en ai un autre."
     n "On mange des croissants debout devant le frigo. C'est la meilleure chose de la journée."
-    $ affinity_lina += 6
-    hide lina laugh
+    $ affinity_zara += 6
+    hide zara laugh
     return
 
-label pc_kitchen_sofia_taste_d3:
-    show sofia smirk at right
-    n "Sofia est penchée sur un présentoir de vins, verre à la main."
-    sofia "Tu t'y connais en vin ?"
-    alex "Pas vraiment."
-    sofia "Goûte."
+label pc_kitchen_ines_taste_d3:
+    show ines smirk at right
+    n "Ines est penchée sur un présentoir de vins, verre à la main."
+    ines "Tu t'y connais en vin ?"
+    elio "Pas vraiment."
+    ines "Goûte."
     n "Elle me tend son verre. C'est un rouge légèrement boisé."
-    alex "C'est bon."
-    sofia "C'est tout ce que tu as ?"
-    alex "C'est bon... et ça me rappelle quelque chose que je saurai pas nommer."
-    sofia "..."
-    sofia "C'est la meilleure réponse que j'aie entendue."
-    $ affinity_sofia += 8
-    hide sofia smirk
+    elio "C'est bon."
+    ines "C'est tout ce que tu as ?"
+    elio "C'est bon... et ça me rappelle quelque chose que je saurai pas nommer."
+    ines "..."
+    ines "C'est la meilleure réponse que j'aie entendue."
+    $ affinity_ines += 8
+    hide ines smirk
     return
 
 label pc_kitchen_herbs_d3:
@@ -515,16 +515,16 @@ label pc_kitchen_herbs_d3:
     return
 
 label pc_kitchen_chocolate_d3:
-    show mina blush at right
+    show vesna blush at right
     n "Une tablette de chocolat noir 70% avec une étiquette manuscrite : {i}« Recette spéciale – NE PAS TOUCHER »{/i}."
     n "Je m'apprête à reposer."
-    mina "Tu peux la prendre. C'est pour toi."
-    alex "Hein ?"
-    mina "Je... j'en avais commandé exprès pour une recette que je voulais tester avec toi."
-    mina "Ce soir, si tu veux."
+    vesna "Tu peux la prendre. C'est pour toi."
+    elio "Hein ?"
+    vesna "Je... j'en avais commandé exprès pour une recette que je voulais tester avec toi."
+    vesna "Ce soir, si tu veux."
     n "Le ton de sa voix a changé. Plus doux. Presque un murmure."
-    $ affinity_mina += 10
-    hide mina blush
+    $ affinity_vesna += 10
+    hide vesna blush
     return
 
 # ════════════════════════════════════════════════════════
@@ -542,11 +542,11 @@ screen terrace_pc(day, visited):
         padding (12, 10)
         vbox:
             spacing 4
-            text "❤ Lina  [affinity_lina]"  color "#FF9966" size 22
-            text "❤ Mina  [affinity_mina]"  color "#FF99CC" size 22
-            text "❤ Sofia [affinity_sofia]" color "#CC99FF" size 22
-            if clara_available:
-                text "❤ Clara [affinity_clara]" color "#99CCFF" size 22
+            text "❤ Zara  [affinity_zara]"  color "#FF9966" size 22
+            text "❤ Vesna  [affinity_vesna]"  color "#FF99CC" size 22
+            text "❤ Ines [affinity_ines]" color "#CC99FF" size 22
+            if lou_available:
+                text "❤ Lou [affinity_lou]" color "#99CCFF" size 22
 
     text "🌿 TERRASSE" xalign 0.5 ypos 30 size 36 color "#fff" outlines [(2,"#0005",0,0)]
 
@@ -554,22 +554,22 @@ screen terrace_pc(day, visited):
         xpos 80 ypos 200
         spacing 16
 
-        if "sofia_massage" not in visited:
-            textbutton "💆 Sofia propose un massage 'pro'":
+        if "ines_massage" not in visited:
+            textbutton "💆 Ines propose un massage 'pro'":
                 style "hotspot_button"
-                action Return("sofia_massage")
-        if "lina_hammock" not in visited:
-            textbutton "🌴 Lina dans le hamac":
+                action Return("ines_massage")
+        if "zara_hammock" not in visited:
+            textbutton "🌴 Zara dans le hamac":
                 style "hotspot_button"
-                action Return("lina_hammock")
+                action Return("zara_hammock")
         if "spring" not in visited:
             textbutton "♨ Source chaude au fond du jardin":
                 style "hotspot_button"
                 action Return("spring")
-        if "clara_roof" not in visited and clara_available:
+        if "lou_roof" not in visited and lou_available:
             textbutton "🔭 Quelqu'un sur le toit ?":
                 style "hotspot_button"
-                action Return("clara_roof")
+                action Return("lou_roof")
         if "sunset" not in visited:
             textbutton "🌅 Observer le coucher de soleil":
                 style "hotspot_button"
@@ -596,71 +596,71 @@ label afternoon_terrace(day):
 
 # ── Événements terrasse ──────────────────────────────────
 
-label pc_terrace_sofia_massage_d5:
-    show sofia soft at right
-    sofia "Alex. Tu as l'air tendu."
-    alex "C'est l'avant-dernier jour. Je suis nostalgique."
-    sofia "Assieds-toi."
+label pc_terrace_ines_massage_d5:
+    show ines soft at right
+    ines "Elio. Tu as l'air tendu."
+    elio "C'est l'avant-dernier jour. Je suis nostalgique."
+    ines "Assieds-toi."
     n "Elle me désigne une chaise longue. Je m'exécute sans trop savoir ce qui se passe."
-    sofia "Je suis formée en massage sportif. C'est professionnel."
-    sofia "Ne lis rien là-dedans."
-    alex "Bien sûr."
+    ines "Je suis formée en massage sportif. C'est professionnel."
+    ines "Ne lis rien là-dedans."
+    elio "Bien sûr."
     n "Ses mains sont fermes et précises. Absolument professionnelles."
     n "Jusqu'au moment où elles s'attardent un peu plus longtemps que nécessaire sur mes épaules."
     n "Aucun des deux n'en fait mention."
-    sofia "Mieux ?"
-    alex "Beaucoup."
-    $ affinity_sofia += 12
-    hide sofia soft
+    ines "Mieux ?"
+    elio "Beaucoup."
+    $ affinity_ines += 12
+    hide ines soft
     return
 
-label pc_terrace_lina_hammock_d5:
-    show lina laugh at right
-    n "Lina se balance dans le hamac, les bras derrière la tête."
-    lina "Alex ! Viens, y'a de la place."
-    alex "Le hamac va pas craquer ?"
-    lina "J'en sais rien. On peut tester."
+label pc_terrace_zara_hammock_d5:
+    show zara laugh at right
+    n "Zara se balance dans le hamac, les bras derrière la tête."
+    zara "Elio ! Viens, y'a de la place."
+    elio "Le hamac va pas craquer ?"
+    zara "J'en sais rien. On peut tester."
     n "On teste. Le hamac tient. Mais c'est serré."
     n "On reste là vingt minutes à fixer le ciel et ne rien dire."
     n "C'est une des meilleures activités de la semaine."
-    lina "...T'as mis de la crème aujourd'hui ?"
-    alex "Oui."
-    lina "Bien."
-    $ affinity_lina += 8
-    hide lina laugh
+    zara "...T'as mis de la crème aujourd'hui ?"
+    elio "Oui."
+    zara "Bien."
+    $ affinity_zara += 8
+    hide zara laugh
     return
 
 label pc_terrace_spring_d5:
-    show mina shy at right
+    show vesna shy at right
     n "La source chaude est cachée derrière les bougainvilliers, au fond du jardin."
-    n "Je m'approche. Mina est là — les pieds dans l'eau, yeux fermés."
+    n "Je m'approche. Vesna est là — les pieds dans l'eau, yeux fermés."
     n "Elle ouvre les yeux en entendant mes pas."
-    mina "Oh ! Je pensais que personne connaissait cet endroit."
-    alex "Je l'ai trouvé par hasard. Je peux rester ?"
-    mina "...Oui."
+    vesna "Oh ! Je pensais que personne connaissait cet endroit."
+    elio "Je l'ai trouvé par hasard. Je peux rester ?"
+    vesna "...Oui."
     n "On reste là en silence, les pieds dans l'eau chaude, le ciel qui vire à l'orange."
-    n "Mina a l'air plus détendue que je l'ai jamais vue."
-    mina "C'est mon endroit préféré ici."
-    alex "Je comprends pourquoi."
-    $ affinity_mina += 12
-    hide mina shy
+    n "Vesna a l'air plus détendue que je l'ai jamais vue."
+    vesna "C'est mon endroit préféré ici."
+    elio "Je comprends pourquoi."
+    $ affinity_vesna += 12
+    hide vesna shy
     return
 
-label pc_terrace_clara_roof_d5:
-    show clara tsundere at right
-    n "Je lève les yeux. Clara est sur le toit, appuyée contre la cheminée."
-    alex "Encore sur le toit ?"
-    clara "Le toit, c'est calme."
-    alex "Tu veux de la compagnie ?"
-    clara "Non."
+label pc_terrace_lou_roof_d5:
+    show lou tsundere at right
+    n "Je lève les yeux. Lou est sur le toit, appuyée contre la cheminée."
+    elio "Encore sur le toit ?"
+    lou "Le toit, c'est calme."
+    elio "Tu veux de la compagnie ?"
+    lou "Non."
     n "Un silence."
-    clara "...Tu peux monter si tu veux. L'échelle est derrière la remise."
+    lou "...Tu peux monter si tu veux. L'échelle est derrière la remise."
     n "Je monte. On reste assis sur les tuiles chaudes à regarder la mer."
-    clara "C'est mon endroit secret."
-    alex "Je dirai rien."
-    clara "Je sais."
-    $ affinity_clara += 10
-    hide clara tsundere
+    lou "C'est mon endroit secret."
+    elio "Je dirai rien."
+    lou "Je sais."
+    $ affinity_lou += 10
+    hide lou tsundere
     return
 
 label pc_terrace_sunset_d5:
