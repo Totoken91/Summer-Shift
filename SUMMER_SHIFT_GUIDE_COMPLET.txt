@@ -516,9 +516,94 @@ SOIR JOUR 2
 7. JOUR 3
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-[Note : Le Jour 3 n'a pas de matin détaillé dans le code source actuel.
-L'après-midi se passe en cuisine (kitchen_pc). Les scènes du soir
-existent pour Lina, Mina et Sofia.]
+────────────────────────────────────────────────────────────────────────
+MATIN [bg kitchen]
+────────────────────────────────────────────────────────────────────────
+
+NARRATEUR : Troisième matin. La chaleur est déjà là à 7h30, collante,
+  presque vivante. La fenêtre ouverte laisse entrer le bruit des vagues
+  et une odeur saline mêlée de café.
+NARRATEUR : Sofia est attablée, carnet ouvert, stylo en main. Débardeur
+  fin, short en jean coupé très haut, cheveux relevés en chignon lâche,
+  mèches collées à la nuque.
+
+SOFIA : Aujourd'hui on passe la vitesse supérieure. Les premiers vrais
+  clients arrivent peut-être demain.
+SOFIA : Mina inventaire + prep. Lina terrasse & extérieurs.
+  Moi chambres + bookings.
+SOFIA : Toi… tu choisis ton camp. Ou ton poison.
+ALEX : Je peux aussi rester ici et te regarder cocher des cases ?
+  C'est hypnotique.
+SOFIA : Tente. Mais je mords quand on me ralentit.
+
+──── CHOIX DU MATIN ────────────────────────────────────────────────────
+
+  [A] "Rejoindre Lina sur la terrasse."     → affinity_lina  +12
+  [B] "Aider Mina en cuisine / stock."      → affinity_mina  +12
+  [C] "Suivre Sofia dans les chambres."     → affinity_sofia +12
+
+────────────────────────────────────────────────────────────────────────
+CHOIX A — LINA SUR LA TERRASSE [bg terrace]
+────────────────────────────────────────────────────────────────────────
+
+[CG prévu : Lina à quatre pattes sur la terrasse ensoleillée, short
+ jean ultra-court, débardeur qui glisse sur une épaule, gouttes de
+ sueur sur la clavicule, sourire espiègle vers Alex.]
+
+NARRATEUR : Lina est à quatre pattes sur le carrelage déjà brûlant,
+  short retroussé très haut. Le débardeur glisse régulièrement sur
+  une épaule. Elle se redresse en m'entendant, passe le revers de la
+  main sur son front — trace de poussière.
+
+LINA : Alex ! Timing parfait. Les palmiers en pot là-haut… faut
+  dépoussiérer les feuilles. Moi je passe pas.
+ALEX : Perchoir humain de luxe, c'est ça ?
+LINA : Perchoir mignon, grand… et avec une vue imprenable sur l'horizon.
+  Ou autre chose.
+NARRATEUR : Elle se mordille la lèvre, faussement innocente.
+LINA : T'as déjà choisi avec qui regarder le coucher de soleil ce soir ?
+  Parce que moi… j'ai ma petite idée.
+
+────────────────────────────────────────────────────────────────────────
+CHOIX B — MINA EN CUISINE [bg kitchen]
+────────────────────────────────────────────────────────────────────────
+
+[CG prévu : Mina perchée sur un tabouret, carnet dans une main, crayon
+ derrière l'oreille, tablier sali de farine et chocolat, lunettes,
+ léger blush en voyant Alex entrer.]
+
+NARRATEUR : Mina est perchée sur un tabouret, vérifie des dates sur des
+  boîtes. Tablier par-dessus un t-shirt trop grand.
+
+MINA : Oh— Alex ! Je… j'avais pas entendu. Tu veux aider ?
+ALEX : Seulement si tu promets de ne pas rougir à chaque contact de main.
+MINA : Je rougis pas… enfin… pas tout le temps.
+NARRATEUR : Nos doigts se croisent sur le stylo. Personne ne retire sa
+  main tout de suite.
+MINA : … tu restes jusqu'à la fin de la semaine, hein ?
+ALEX : Au moins. Peut-être plus si on me donne de bonnes raisons.
+MINA : … c'est déjà une bonne raison que tu sois là, non ?
+
+────────────────────────────────────────────────────────────────────────
+CHOIX C — SOFIA EN CHAMBRE [bg room]
+────────────────────────────────────────────────────────────────────────
+
+[CG prévu : Sofia et Alex tirent ensemble un drap blanc au-dessus du lit,
+ regards intenses qui se croisent au-dessus du tissu, kimono léger
+ entrouvert, bretelle fine visible, tension palpable.]
+
+NARRATEUR : Chambre 3. Sofia tire sur les draps avec une précision
+  chirurgicale. Son kimono en soie légère s'entrouvre à chaque mouvement.
+
+SOFIA : Attrape l'autre côté. On gagne du temps à deux.
+ALEX : On forme une équipe dangereusement efficace.
+SOFIA : Danger est un bien grand mot… mais je ne vais pas te contredire.
+NARRATEUR : On tend le drap. Nos regards se croisent au-dessus du tissu
+  blanc. Elle ne détourne pas les yeux.
+SOFIA : Ce soir, après le service… je serai sur la terrasse avec un
+  verre. Si tu veux me rejoindre. Sans obligation.
+ALEX : Et si j'ai envie d'obligation ?
+SOFIA : Alors tu devras être très convaincant.
 
 ────────────────────────────────────────────────────────────────────────
 APRÈS-MIDI JOUR 3 — CUISINE [Point & Click]
